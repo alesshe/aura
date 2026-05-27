@@ -37,6 +37,38 @@
     --ease-liquid: cubic-bezier(0.32, 0.72, 0, 1);
     --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
   }
+
+  /* Dark mode — paleta e natës (E PLOTE) */
+  body.theme-dark {
+    --cream: #14110d;
+    --cream-soft: #1c1814;
+    --cream-deep: #221d18;
+    --ink: #f0e8d8;
+    --ink-soft: #c8bdaa;
+    --ink-mute: #8a8175;
+    --ink-faint: #5a554c;
+    --terracotta: #e07d4f;
+    --terracotta-soft: rgba(224, 125, 79, 0.18);
+    --amber: #e8a35a;
+    --amber-soft: rgba(232, 163, 90, 0.18);
+    --sage: #a3b890;
+    --sage-soft: rgba(163, 184, 144, 0.18);
+    --plum: #c08599;
+    --plum-soft: rgba(192, 133, 153, 0.18);
+    --sky: #95b3d2;
+    --sky-soft: rgba(149, 179, 210, 0.18);
+    --rule: rgba(240, 232, 216, 0.10);
+    --shadow-soft: 0 1px 3px rgba(0, 0, 0, 0.3), 0 8px 24px -8px rgba(0, 0, 0, 0.4);
+    --shadow-lift: 0 4px 12px rgba(0, 0, 0, 0.4), 0 24px 48px -16px rgba(0, 0, 0, 0.6);
+    --bg-grad-1: rgba(224, 125, 79, 0.08);
+    --bg-grad-2: rgba(232, 163, 90, 0.05);
+    --bg-grad-3: rgba(163, 184, 144, 0.04);
+    --card-bg: rgba(40, 34, 28, 0.6);
+    --card-border: rgba(240, 232, 216, 0.08);
+    --topbar-bg: rgba(20, 17, 13, 0.78);
+    --catnav-bg: rgba(20, 17, 13, 0.82);
+  }
+
   * { margin: 0; padding: 0; box-sizing: border-box; }
   html { scroll-behavior: smooth; }
   body {
@@ -210,16 +242,7 @@
   /* SVG ikona për dark/light */
   .theme-icon { width: 13px; height: 13px; }
 
-  /* Length toggle në hero */
-  .length-toggle-wrap {
-    display: flex; justify-content: center; align-items: center; gap: 14px;
-    margin: 24px 0 8px;
-    flex-wrap: wrap;
-  }
-  .length-toggle-label {
-    font-size: 11px; color: var(--ink-mute); font-weight: 500;
-    letter-spacing: 0.06em; text-transform: uppercase;
-  }
+  
 
   /* ============ RRIT HAPËSIRËN MES KATEGORIVE ============ */
   .category-block {
@@ -290,9 +313,45 @@
     .length-toggle-wrap { gap: 8px; }
     .length-toggle-label { display: none; }
   }
+
+  /* Length section — kompakt, sentence case, jo bold */
+  .length-section {
+    display: flex; flex-direction: column; align-items: center;
+    gap: 6px; margin-top: 16px;
+  }
+  .length-label {
+    font-size: 10px; color: var(--ink-mute);
+    letter-spacing: 0.08em; text-transform: uppercase; font-weight: 500;
+  }
+  .length-pill {
+    display: inline-flex; gap: 2px;
+    background: rgba(42, 37, 32, 0.08);
+    border-radius: var(--r-pill); padding: 3px;
+    position: relative;
+  }
+  body.theme-dark .length-pill {
+    background: rgba(240, 232, 216, 0.08);
+  }
+  .length-pill button {
+    border: none; background: transparent;
+    padding: 5px 12px; font-size: 11px; font-weight: 500;
+    border-radius: var(--r-pill); cursor: pointer;
+    color: var(--ink-mute); letter-spacing: 0.02em;
+    transition: color 0.4s var(--ease-liquid);
+    position: relative; z-index: 2;
+  }
+  .length-pill button.active { color: var(--cream); }
+  .length-slider {
+    position: absolute; top: 3px; bottom: 3px;
+    background: var(--ink);
+    border-radius: var(--r-pill);
+    transition: transform 0.55s var(--ease-liquid), width 0.4s var(--ease-liquid);
+    box-shadow: 0 2px 8px rgba(42, 37, 32, 0.2);
+    z-index: 1;
+  }
 </style>
 </head>
-<body class="lang-en">
+<body class="lang-en theme-light mode-long">
 
 <header class="topbar">
   <div class="topbar-inner">
@@ -343,11 +402,11 @@
       <div class="stat-pill"><div class="v"><em>32</em></div><div class="l" data-en>Stories</div><div class="l" data-al>Tema</div></div>
     </div>
 
-    <div class="length-toggle-wrap">
-      <span class="length-toggle-label" data-en>Reading depth</span>
-      <span class="length-toggle-label" data-al>Thellësia e leximit</span>
-      <div class="toggle-pill" id="length-toggle" role="group" aria-label="Reading length">
-        <span class="toggle-slider" id="length-slider"></span>
+    <div class="length-section">
+      <div class="length-label" data-en>Reading depth</div>
+      <div class="length-label" data-al>Thellësia e leximit</div>
+      <div class="length-pill" id="length-toggle" role="group" aria-label="Reading length">
+        <span class="length-slider" id="length-slider"></span>
         <button data-length="long" class="active">
           <span data-en>Deep · 10min</span>
           <span data-al>Thellë · 10min</span>
@@ -522,6 +581,7 @@ function positionToggleSlider(toggleId, sliderId) {
   if (!activeBtn) return;
   const toggleRect = toggle.getBoundingClientRect();
   const btnRect = activeBtn.getBoundingClientRect();
+  if (btnRect.width === 0) return;
   slider.style.width = btnRect.width + 'px';
   slider.style.transform = `translateX(${btnRect.left - toggleRect.left - 3}px)`;
 }
