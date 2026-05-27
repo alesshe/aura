@@ -1,70 +1,48 @@
 {
-  "edition": 142,
-  "date": "2026-05-26",
-  "stats": {
-    "readMin": 10,
-    "categoriesCount": 10,
-    "storiesCount": 29
-  },
+  "edition": 143,
+  "date": "2026-05-27",
+  "stats": { "readMin": 10, "categoriesCount": 10, "storiesCount": 24 },
   "tldr": [
     {
-      "cat": {
-        "en": "WORLD",
-        "al": "BOTË"
-      },
+      "cat": {"en": "WORLD", "al": "BOTË"},
       "txt": {
-        "en": "<strong>Brazil & India</strong> signed a critical-minerals pact this week, creating a new pricing benchmark outside the Shanghai-London axis. First real alternative in 20 years.",
-        "al": "<strong>Brazili & India</strong> nënshkruan një pakt për mineralet kritike këtë javë, duke krijuar një referencë të re çmimi jashtë boshtit Shanghai-Londër. Alternativa e parë reale në 20 vjet."
+        "en": "<strong>US-Iran ceasefire holds, fragile.</strong> Fresh US strikes on Iranian vessels in southern Iran killed four soldiers; Tehran called it a 'definitive violation' but stayed at the negotiating table.",
+        "al": "<strong>Armëpushimi SHBA-Iran qëndron, i brishtë.</strong> Goditje të reja amerikane mbi anijet iraniane në jug të Iranit vranë katër ushtarë; Teherani e quajti 'shkelje definitive' por mbeti në tryezë."
       }
     },
     {
-      "cat": {
-        "en": "ECONOMY",
-        "al": "EKONOMI"
-      },
+      "cat": {"en": "MARKETS", "al": "TREGJE"},
       "txt": {
-        "en": "<strong>Japan</strong> quietly closed a 30-year deflation chapter — the Bank of Japan used \"structural inflation\" for the first time since 1995. Bond markets worldwide are repricing.",
-        "al": "<strong>Japonia</strong> mbylli në heshtje një kapitull 30-vjeçar deflacioni — Banka e Japonisë përdori \"inflacion strukturor\" për herë të parë që nga 1995. Tregjet globale të obligacioneve po rivlerësohen."
+        "en": "<strong>Oil crashed ~6%</strong> as Washington and Tehran signaled gradual reopening of the Strait of Hormuz. Japan's Nikkei broke 65,000 for first time ever (+3%). Asia and Europe hit records while US markets closed for Memorial Day.",
+        "al": "<strong>Nafta ra ~6%</strong> ndërsa Uashingtoni dhe Teherani sinjalizuan rihapje graduale të Ngushticës së Hormuzit. Nikkei i Japonisë theu 65,000 për herë të parë (+3%). Azia dhe Evropa në rekorde."
       }
     },
     {
-      "cat": {
-        "en": "IDEAS",
-        "al": "IDE"
-      },
+      "cat": {"en": "AI & TECH", "al": "IA & TEKNOLOGJI"},
       "txt": {
-        "en": "<strong>A new essay</strong> reframes boredom as a cognitive nutrient, not a deficit. Empty time, not filled time, is where insight forms. Practical: 15 unstructured minutes daily.",
-        "al": "<strong>Një ese e re</strong> e rikonceptohet mërzinë si lëndë ushqyese të mendjes, jo si mungesë. Koha e zbrazët, jo e mbushur, është aty ku formohet mprehtësia. Praktikë: 15 minuta të pastrukturuara në ditë."
+        "en": "<strong>China restricts overseas travel</strong> for senior AI researchers at Alibaba, DeepSeek, and other private firms. Engineers must now request approval before leaving — a sign Beijing now treats elite AI talent as strategic state assets.",
+        "al": "<strong>Kina kufizon udhëtimet jashtë</strong> për kërkuesit e lartë të IA-së në Alibaba, DeepSeek dhe firma private. Inxhinierët duhet të kërkojnë miratim para se të largohen — sinjal që Pekini tani i trajton talentet e IA-së si asete strategjike."
       }
     },
     {
-      "cat": {
-        "en": "SCIENCE",
-        "al": "SHKENCË"
-      },
+      "cat": {"en": "SCIENCE", "al": "SHKENCË"},
       "txt": {
-        "en": "<strong>Longevity research</strong> just got its cleanest signal in a decade: one gene variant (FOXO3) replicates across centenarians in four continents at 2x normal rate.",
-        "al": "<strong>Studimi i jetëgjatësisë</strong> sapo mori sinjalin më të pastër në një dekadë: një variant gjeni (FOXO3) përsëritet te njerëzit mbi 100 vjeç në katër kontinente me normë 2x më të lartë."
+        "en": "<strong>MIT finds cysteine triggers gut healing.</strong> A common amino acid in meat, dairy, beans and nuts activated immune cells that released repair signals in mice intestines — a possible new path for inflammatory bowel disease therapy.",
+        "al": "<strong>MIT zbulon se cisteina nxit shërimin e zorrëve.</strong> Një aminoacid i zakonshëm në mish, qumësht, bishtajore dhe arra aktivizoi qelizat imune që lëshuan sinjale riparimi në zorrët e minjve — shteg i mundshëm për terapinë e IBD."
       }
     },
     {
-      "cat": {
-        "en": "CULTURE",
-        "al": "KULTURË"
-      },
+      "cat": {"en": "CULTURE", "al": "KULTURË"},
       "txt": {
-        "en": "<strong>A lost Cézanne sketchbook</strong> surfaced in Aix. Its contents suggest Cézanne was developing Cubist ideas years before Picasso's Demoiselles. Art history just shifted.",
-        "al": "<strong>Një bllok skicash i humbur i Sezanit</strong> u zbulua në Aix. Përmbajtja sugjeron se Sezani po zhvillonte ide kubiste vite para Demoiselles të Pikasos. Historia e artit sapo ndryshoi."
+        "en": "<strong>'Fjord' wins Palme d'Or at Cannes 2026.</strong> Cristian Mungiu's drama about a Romanian-Norwegian family clashing with progressive Norwegian law takes the second Palme of his career.",
+        "al": "<strong>'Fjord' fiton Palme d'Or-in në Kanë 2026.</strong> Drama e Cristian Mungiu për një familje rumune-norvegjeze në konflikt me ligjin progresist norvegjez merr Palme-n e dytë të karrierës së tij."
       }
     }
   ],
   "categories": [
     {
       "id": "world",
-      "name": {
-        "en": "World",
-        "al": "Botë"
-      },
+      "name": {"en": "World", "al": "Botë"},
       "icon": "✦",
       "color": "terracotta",
       "intro": {
@@ -74,96 +52,65 @@
       "items": [
         {
           "featured": true,
-          "tag": {
-            "en": "Geopolitics",
-            "al": "Gjeopolitikë"
-          },
-          "source": "FT · Reuters",
+          "tag": {"en": "Diplomacy", "al": "Diplomaci"},
+          "source": "Reuters · 10Things",
           "title": {
-            "en": "Brazil & India forge a critical-minerals corridor",
-            "al": "Brazili & India ndërtojnë një korridor mineralesh kritike"
+            "en": "US-Iran ceasefire holds — barely — as Washington strikes Iranian vessels",
+            "al": "Armëpushimi SHBA-Iran qëndron — mezi — pasi Uashingtoni godet anije iraniane"
           },
           "context": {
-            "en": "<strong>What this is about:</strong> \"Critical minerals\" are materials essential for modern tech — lithium for batteries, rare earths for magnets in electric motors and missiles, tungsten for industrial cutting tools. Today, China controls global processing of most of them. Whoever controls these supply chains controls the next generation of industry, defense, and clean energy.",
-            "al": "<strong>Për çfarë bëhet fjalë:</strong> \"Mineralet kritike\" janë materialet thelbësore për teknologjinë moderne — litiumi për bateritë, tokat e rralla për magnetët në motorë elektrikë dhe raketa, tungsteni për veglat industriale. Sot, Kina kontrollon përpunimin global të shumicës së tyre. Kushdo që kontrollon këto zinxhirë furnizimi, kontrollon gjeneratën e ardhshme të industrisë, mbrojtjes dhe energjisë së pastër."
+            "en": "<strong>What this is about:</strong> The US and Iran have been in escalating military exchanges around the Strait of Hormuz — the narrow shipping lane through which roughly 20% of global oil passes. A ceasefire was negotiated, but is being tested daily. The Strait of Hormuz is the most strategically important chokepoint for global energy.",
+            "al": "<strong>Për çfarë bëhet fjalë:</strong> SHBA-ja dhe Irani kanë qenë në shkëmbime ushtarake në rritje rreth Ngushticës së Hormuzit — kanali i ngushtë i lundrimit përmes të cilit kalon rreth 20% e naftës globale. U negociua një armëpushim, por po testohet çdo ditë. Ngushtica e Hormuzit është pika më strategjike e energjisë globale."
           },
           "body": {
-            "en": "<p>This week, Brazil and India signed a bilateral framework that locks in joint supply of lithium, rare earths, and tungsten between the two largest democracies outside the G7. The deal also creates a <strong>new joint pricing benchmark</strong> — meaning the price of these materials will no longer be set primarily on the Shanghai or London metal exchanges.</p><p>Brazil has the deposits (~22% of global rare-earth reserves), India has the manufacturing demand and refining ambition. Neither alone could challenge Chinese dominance. Together, with a shared benchmark, they create the first credible price-discovery alternative in two decades.</p>",
-            "al": "<p>Këtë javë, Brazili dhe India nënshkruan një kornizë dypalëshe që siguron furnizim të përbashkët me litium, toka të rralla dhe tungsten midis dy demokracive më të mëdha jashtë G7-ës. Marrëveshja krijon gjithashtu një <strong>benchmark të ri të përbashkët çmimi</strong> — që do të thotë se çmimi i këtyre materialeve nuk do të vendoset më kryesisht në bursat e Shanghait apo Londrës.</p><p>Brazili ka rezervat (~22% të rezervave globale të tokave të rralla), India ka kërkesën prodhuese dhe ambicien e rafinimit. Asnjëri vetëm nuk mund të sfidojë dominimin kinez. Së bashku, me një benchmark të përbashkët, krijojnë alternativën e parë të besueshme në dy dekada.</p>"
+            "en": "<p>On Tuesday, the US struck missile-launch sites and Iranian vessels in southern Iran, killing four Iranian soldiers. The attacks targeted Iranian efforts to lay mines in the Strait of Hormuz. Tehran called it a 'definitive violation' of the truce — but, importantly, <strong>remained at the negotiating table</strong>.</p><p>The fact that Iran kept negotiating despite the strikes suggests both sides see de-escalation as the more painful loss. Over the weekend, two LNG tankers cleared the Strait and a long-detained Iraqi crude supertanker bound for China left the Gulf — concrete evidence the diplomatic process is producing real movement, not just statements.</p>"
+          ,
+            "al": "<p>Të martën, SHBA-ja goditi vendet e lëshimit të raketave dhe anije iraniane në jug të Iranit, duke vrarë katër ushtarë iranianë. Sulmet synuan përpjekjet iraniane për të vendosur mina në Ngushticën e Hormuzit. Teherani e quajti 'shkelje definitive' të armëpushimit — por, e rëndësishme, <strong>mbeti në tryezën e negociatave</strong>.</p><p>Fakti që Irani vazhdoi të negociojë pavarësisht goditjeve sugjeron që të dyja palët e shohin de-eskalimin si humbjen më të dhimbshme. Gjatë fundjavës, dy tankerë LNG kaluan ngushticën dhe një supertanker iraninan i mbajtur prej kohësh me naftë të papërpunuar irakene drejt Kinës u largua nga Gjiri — provë konkrete se procesi diplomatik po prodhon lëvizje reale, jo vetëm deklarata.</p>"
           },
           "points": [
             {
-              "en": "<strong>Why now:</strong> The US and EU have been trying to \"de-risk\" from China for years, but lack their own reserves. The Brazil-India axis solves that.",
-              "al": "<strong>Pse tani:</strong> SHBA dhe BE-ja prej vitesh po përpiqen të \"ulin rrezikun\" nga Kina, por nuk kanë rezerva të vetat. Boshti Brazil-Indi e zgjidh këtë."
+              "en": "<strong>Market reaction:</strong> Brent crude fell ~6% to $94.5; WTI dropped to $90.6 — both two-week lows.",
+              "al": "<strong>Reagimi i tregut:</strong> Brent crude ra ~6% në 94.5$; WTI në 90.6$ — të dy në minimum dy-javor."
             },
             {
-              "en": "<strong>Market signal:</strong> Tungsten prices already up 14% on the news. Rare-earth ETFs jumped 8%.",
-              "al": "<strong>Sinjali i tregut:</strong> Çmimi i tungstenit u rrit 14% me lajmin. ETF-të e tokave të rralla u rritën 8%."
+              "en": "<strong>For Europe & Albania:</strong> Lower oil = lower gas/diesel prices, lower inflation pressure on imports. A genuine ceasefire would mean serious deflationary relief.",
+              "al": "<strong>Për Evropën & Shqipërinë:</strong> Naftë më e lirë = çmime më të ulëta për gaz/naftë, presion më i ulët inflacioni mbi importet. Një armëpushim i mirëfilltë do të thotë lehtësim serioz deflacioniar."
             },
             {
-              "en": "<strong>Bigger picture:</strong> This is the first concrete expression of \"Global South\" trade architecture replacing G7-era frameworks.",
-              "al": "<strong>Pamja e gjerë:</strong> Kjo është shprehja e parë konkrete e arkitekturës tregtare të \"Jugut Global\" që po zëvendëson kornizat e epokës G7."
+              "en": "<strong>Watch:</strong> Whether Iran formally reopens the Strait. If yes, this becomes the most consequential diplomatic win of 2026.",
+              "al": "<strong>Vëzhgo:</strong> Nëse Irani rihap zyrtarisht Ngushticën. Nëse po, kjo bëhet fitorja diplomatike më e rëndësishme e 2026-ës."
             }
           ],
           "why": {
-            "en": "This reshapes commodity flows for the next decade and gives mid-sized economies real pricing leverage.",
-            "al": "Kjo ndryshon rrjedhat e mallrave për dekadën e ardhshme dhe u jep ekonomive të mesme leva reale në çmime."
+            "en": "20% of global oil flows through here. Stability or escalation defines global inflation for the next year.",
+            "al": "20% e naftës globale kalon nga këtu. Stabiliteti ose përshkallëzimi përcakton inflacionin global për vitin e ardhshëm."
           }
         },
         {
-          "tag": {
-            "en": "EU",
-            "al": "BE"
-          },
-          "source": "Politico EU",
+          "tag": {"en": "Europe", "al": "Evropë"},
+          "source": "FT · 10Things",
           "title": {
-            "en": "Brussels unveils a unified critical-materials reserve",
-            "al": "Brukseli prezanton një rezervë të unifikuar materialesh kritike"
+            "en": "UK and Poland deepen defense ties as US signals reduced NATO commitments",
+            "al": "MB dhe Polonia thellojnë lidhjet e mbrojtjes ndërsa SHBA-ja sinjalizon zvogëlim të angazhimeve NATO"
           },
           "context": {
-            "en": "<strong>Context:</strong> The EU has long been dependent on imports for ~98% of its critical raw materials. Each member state has tiny national reserves. A shared, pooled stockpile is unprecedented for the bloc.",
-            "al": "<strong>Konteksti:</strong> BE-ja prej vitesh varet ~98% nga importet për lëndët e para kritike. Çdo shtet anëtar ka rezerva të vogla kombëtare. Një rezervë e përbashkët është një precedent për bllokun."
+            "en": "<strong>Context:</strong> Since early 2026, the US has been gradually communicating that it expects European NATO members to take primary responsibility for European defense. This is forcing Europe's largest military spenders to coordinate among themselves — a structural shift that hasn't happened since the Cold War.",
+            "al": "<strong>Konteksti:</strong> Që nga fillimi i 2026-ës, SHBA-ja po komunikon gradualisht se pret që anëtarët evropianë të NATO-s të marrin përgjegjësinë kryesore për mbrojtjen evropiane. Kjo po detyron shpenzuesit më të mëdhenj ushtarakë të Evropës të koordinohen mes vetes — një ndryshim strukturor që nuk ka ndodhur që nga Lufta e Ftohtë."
           },
           "body": {
-            "en": "<p>The European Commission proposed a strategic stockpile covering 17 critical materials — pooled storage across multiple locations, joint procurement to negotiate volume prices. The initial budget is €4.2B over five years.</p><p>It signals a structural shift: the EU is treating raw materials the way it treats grain reserves or strategic oil — as a matter of collective security, not market faith.</p>",
-            "al": "<p>Komisioni Evropian propozoi një rezervë strategjike që mbulon 17 materiale kritike — depozitim i përbashkët në disa vendndodhje, prokurim i përbashkët për të negociuar çmime sasiore. Buxheti fillestar është 4.2 miliardë euro për pesë vjet.</p><p>Sinjalizon një ndryshim strukturor: BE-ja po i trajton lëndët e para si trajton rezervat e grurit ose naftën strategjike — si çështje e sigurisë kolektive, jo besimi te tregu.</p>"
+            "en": "<p>The UK and Poland — two of NATO's biggest spenders by GDP share — signed a deeper defense cooperation framework this week, covering joint procurement, intelligence sharing, and rapid-response forces. The agreement is structured to operate independently of US logistics if needed.</p><p>Meanwhile, Tony Blair publicly warned UK Labour against drifting left on defense policy, citing the urgency of the European security moment.</p>",
+            "al": "<p>MB dhe Polonia — dy nga shpenzuesit më të mëdhenj të NATO-s sipas pjesës së PBB-së — nënshkruan një kornizë më të thellë bashkëpunimi në mbrojtje këtë javë, që mbulon prokurim të përbashkët, ndarje të inteligjencës dhe forca të reagimit të shpejtë. Marrëveshja është strukturuar të operojë në mënyrë të pavarur nga logjistika amerikane nëse është e nevojshme.</p><p>Ndërkohë, Tony Blair paralajmëroi publikisht Të Punës në MB të mos zhvendoseshin nga e majta në politikën e mbrojtjes, duke përmendur urgjencën e momentit evropian të sigurisë.</p>"
           },
           "why": {
-            "en": "Strategic autonomy moves from speech to budget line.",
-            "al": "Autonomia strategjike kalon nga fjalim në zë buxhetor."
-          }
-        },
-        {
-          "tag": {
-            "en": "Africa",
-            "al": "Afrikë"
-          },
-          "source": "The Economist",
-          "title": {
-            "en": "Kenya becomes second African nation to fully digitize land titles",
-            "al": "Kenya bëhet vendi i dytë afrikan me titujt e tokës plotësisht të digjitalizuar"
-          },
-          "context": {
-            "en": "<strong>Why this matters:</strong> In most of Sub-Saharan Africa, land ownership is informal — verified by community memory and paper records that get lost, forged, or contested. This blocks ~$1 trillion in potential collateral that could otherwise be used to borrow, build, or invest. Hernando de Soto called it \"dead capital.\"",
-            "al": "<strong>Pse ka rëndësi:</strong> Në pjesën më të madhe të Afrikës Sub-Sahariane, pronësia e tokës është informale — vërtetohet nga kujtesa e komunitetit dhe regjistra letre që humbasin, falsifikohen ose kontestohen. Kjo bllokon ~1 trilion dollarë në kolateral potencial që mund të përdorej për të marrë hua, ndërtuar ose investuar. Hernando de Soto e quajti \"kapital të vdekur\"."
-          },
-          "body": {
-            "en": "<p>After a five-year rollout, every parcel of land in Kenya now has a blockchain-anchored title — meaning ownership is recorded on a tamper-resistant ledger accessible from a phone. Mortgage approval times dropped from <strong>months to days</strong>. Disputed land cases in court dropped 40%.</p><p>Rwanda pioneered the model in 2018; Kenya is the first large-scale validation. Ethiopia and Ghana are now studying the implementation.</p>",
-            "al": "<p>Pas një rrolli pesëvjeçar, çdo parcelë toke në Keni tashmë ka një titull të mbështetur në blockchain — që do të thotë se pronësia regjistrohet në një regjistër të pamodifikueshëm dhe aksesueshëm nga telefoni. Kohët e miratimit të hipotekave ranë nga <strong>muaj në ditë</strong>. Çështjet gjyqësore mbi tokën ranë 40%.</p><p>Ruanda pionieroi modelin në 2018; Kenia është validimi i parë në shkallë të madhe. Etiopia dhe Gana tani po e studiojnë zbatimin.</p>"
-          },
-          "why": {
-            "en": "Clear property rights unlock wealth creation at scale — this is bigger than it sounds.",
-            "al": "Të drejtat e qarta pronësore zhbllokojnë krijimin e pasurisë në shkallë të madhe — kjo është më e madhe sesa duket."
+            "en": "Europe is quietly building a defense architecture it might soon need to use alone.",
+            "al": "Evropa po ndërton në heshtje një arkitekturë mbrojtjeje që mund t'i duhet ta përdorë vetëm."
           }
         }
       ]
     },
     {
       "id": "economy",
-      "name": {
-        "en": "Economy",
-        "al": "Ekonomi"
-      },
+      "name": {"en": "Economy", "al": "Ekonomi"},
       "icon": "¤",
       "color": "amber",
       "intro": {
@@ -173,96 +120,64 @@
       "items": [
         {
           "featured": true,
-          "tag": {
-            "en": "Macro",
-            "al": "Makro"
-          },
-          "source": "BoJ · Bloomberg",
+          "tag": {"en": "Macro", "al": "Makro"},
+          "source": "Rio Times · S&P Global",
           "title": {
-            "en": "Japan ends an era: 30 years of deflation, quietly closed",
-            "al": "Japonia mbyll një epokë: 30 vjet deflacion, fund i heshtur"
+            "en": "Fed Chair Warsh signals no rate cuts in 2026 — markets adjust",
+            "al": "Kryetari i Fed-it Warsh sinjalizon pa ulje normash në 2026 — tregjet përshtaten"
           },
           "context": {
-            "en": "<strong>Background you need:</strong> For three decades, Japan has been the world's laboratory for what happens when prices stop rising (or fall) — \"deflation.\" This is bad: people delay buying because things will be cheaper tomorrow, the economy stagnates, debt becomes heavier. Japan tried zero interest rates and money printing for 25 years to escape it. Now, finally, the Bank of Japan is signaling: the deflation era is over.",
-            "al": "<strong>Sfondi që të duhet:</strong> Për tre dekada, Japonia ka qenë laboratori i botës për atë që ndodh kur çmimet ndalojnë së rrituri (ose bien) — \"deflacion\". Kjo është e keqe: njerëzit shtyjnë blerjet sepse gjërat do të jenë më të lira nesër, ekonomia stagnon, borxhi rëndon. Japonia provoi norma interesi zero dhe printim parash për 25 vjet për t'i shpëtuar. Tani, më në fund, Banka e Japonisë sinjalizon: epoka e deflacionit ka mbaruar."
+            "en": "<strong>Background:</strong> Kevin Warsh became Fed Chair earlier in 2026. The 'Fed' is the US central bank — when it raises or lowers interest rates, the entire world's borrowing costs shift. Markets had been pricing in rate cuts this year. Warsh just told them: no.",
+            "al": "<strong>Sfondi:</strong> Kevin Warsh u bë Kryetar i Fed-it në fillim të 2026-ës. 'Fed' është banka qendrore amerikane — kur rrit ose ul normat e interesit, kostot e huamarrjes në mbarë botën zhvendosen. Tregjet kishin parashikuar ulje normash këtë vit. Warsh sapo u tha: jo."
           },
           "body": {
-            "en": "<p>The Bank of Japan held its policy rate steady, but its accompanying statement used the phrase <strong>\"structural inflation regime\"</strong> for the first time since 1995. That is not a routine phrase. It signals that the BoJ believes Japan has finally exited the long deflationary trap.</p><p>Japanese 10-year government bond yields ticked up in response. This matters globally because Japan owns approximately <strong>$1.1 trillion of US Treasuries</strong>. If Japanese investors can now earn decent yields at home, fewer of them buy US debt — which pushes US interest rates higher for everyone.</p>",
-            "al": "<p>Banka e Japonisë mbajti normën e politikës të qëndrueshme, por deklarata shoqëruese përdori termin <strong>\"regjim strukturor inflacioni\"</strong> për herë të parë që nga 1995. Ky nuk është një term rutinë. Sinjalizon se BoJ beson që Japonia më në fund ka dalë nga kurthi i gjatë deflacioniste.</p><p>Yield-et e obligacioneve qeveritare 10-vjeçare japoneze u rritën në përgjigje. Kjo ka rëndësi globalisht sepse Japonia zotëron rreth <strong>1.1 trilion dollarë në obligacione amerikane</strong>. Nëse investitorët japonezë tani mund të fitojnë yield-e të mira në shtëpi, më pak prej tyre blejnë borxh amerikan — gjë që rrit normat e interesit në SHBA për të gjithë.</p>"
+            "en": "<p>With US markets closed Monday for Memorial Day, bond traders globally consolidated the view that Fed Chair Kevin Warsh will not cut rates in 2026. The US 30-year Treasury sits at 5.06% — historically high. The next move in policy rates has been pushed out to mid-2027.</p><p>This matters because expectations had been for cuts to ease borrowing costs globally. With cuts off the table, refinancing pressure stays on indebted governments and companies — and on emerging-market currencies. Notably, futures markets are now pricing a higher chance of a hike than a cut next year, after recent strong inflation data.</p>",
+            "al": "<p>Me tregjet amerikane të mbyllura të hënën për Memorial Day, tregtarët e obligacioneve globalisht konsoliduan pikëpamjen se Kryetari i Fed-it Kevin Warsh nuk do të ulë normat në 2026. 30-vjeçari amerikan i Thesarit qëndron në 5.06% — historikisht i lartë. Lëvizja e ardhshme në normat e politikës është shtyrë në mes-2027.</p><p>Kjo ka rëndësi sepse pritjet ishin për ulje që do të lehtësonin kostot e huamarrjes globalisht. Me uljet jashtë tryezës, presioni i rifinancimit qëndron mbi qeveritë e ngarkuara me borxhe dhe kompanitë — dhe mbi valutat e tregjeve në zhvillim. E rëndësishme, tregjet e futures tani po vlerësojnë një shans më të lartë për një rritje sesa një ulje vitin e ardhshëm, pas të dhënave të fundit të forta të inflacionit.</p>"
           },
           "points": [
             {
-              "en": "<strong>The cascade:</strong> Japan tightens → fewer yen converted to dollars → dollar weakens vs yen → US Treasury demand softens → US yields rise.",
-              "al": "<strong>Kaskada:</strong> Japonia shtrëngon → më pak jenë konvertohen në dollarë → dollari dobësohet ndaj jenit → kërkesa për obligacione amerikane bie → yield-et amerikane rriten."
+              "en": "<strong>Stocks shrugged:</strong> S&P 500 +9.8% YTD despite the hawkish Fed. Earnings still strong.",
+              "al": "<strong>Aksionet pa lëvizje:</strong> S&P 500 +9.8% YTD pavarësisht Fed-it agresiv. Fitimet ende të forta."
             },
             {
-              "en": "<strong>For Albania/EU:</strong> A weaker dollar tends to be good for emerging-market debt and commodity prices (gold, oil priced in USD).",
-              "al": "<strong>Për Shqipërinë/BE:</strong> Një dollar më i dobët priret të jetë i mirë për borxhin e tregjeve në zhvillim dhe çmimet e mallrave (ari, nafta në dollarë)."
+              "en": "<strong>Bonds struggled:</strong> A 5%+ 30-year yield means buying long-dated US debt is risky if inflation persists.",
+              "al": "<strong>Obligacionet vështirësi:</strong> Një yield 30-vjeçar 5%+ do të thotë se blerja e borxhit amerikan afatgjatë është e rrezikshme nëse inflacioni vazhdon."
             },
             {
-              "en": "<strong>Watch next:</strong> The next BoJ meeting in July. If they actually raise rates, that confirms the regime shift.",
-              "al": "<strong>Vëzhgo më pas:</strong> Mbledhjen e ardhshme të BoJ-së në korrik. Nëse ngrenë vërtet normat, kjo konfirmon ndryshimin e regjimit."
+              "en": "<strong>For Europe:</strong> ECB has more room to cut — divergence between Fed and ECB creates currency moves and trade implications.",
+              "al": "<strong>Për Evropën:</strong> BQE-ja ka më shumë hapësirë për të ulur — divergjenca mes Fed dhe BQE krijon lëvizje monedhe dhe implikime tregtare."
             }
           ],
           "why": {
-            "en": "This changes how every fixed-income desk in the world thinks for the next 24 months.",
-            "al": "Kjo ndryshon mënyrën si mendon çdo desk obligacionesh në botë për 24 muajt e ardhshëm."
+            "en": "The cost of money worldwide is being set by one man's view. That view just hardened.",
+            "al": "Kostoja e parave në mbarë botën po vendoset nga pikëpamja e një burri. Ajo pikëpamje sapo u forcua."
           }
         },
         {
-          "tag": {
-            "en": "Commodities",
-            "al": "Mallra"
-          },
-          "source": "COT · Kitco",
+          "tag": {"en": "Commodities", "al": "Mallra"},
+          "source": "Bloomberg · Reuters",
           "title": {
-            "en": "Silver-gold ratio hits a decade extreme",
-            "al": "Raporti argjend-ar arrin ekstremin e dekadës"
+            "en": "Brent crude crashes ~6% on Hormuz reopening signals",
+            "al": "Brent crude bie ~6% nga sinjalet e rihapjes së Hormuzit"
           },
           "context": {
-            "en": "<strong>What this means:</strong> The \"silver-gold ratio\" tells you how many ounces of silver it takes to buy one ounce of gold. Historically it ranges between 50-80. Above 80, silver is \"cheap\" relative to gold; below 50, expensive. Traders watch it because over centuries, the ratio tends to revert to its long-term mean — making it a mean-reversion signal.",
-            "al": "<strong>Çfarë do të thotë kjo:</strong> \"Raporti argjend-ar\" të tregon sa onsë argjendi duhen për të blerë një onsë ari. Historikisht varion midis 50-80. Mbi 80, argjendi është \"lirë\" krahasuar me arin; nën 50, i shtrenjtë. Tregtarët e vëzhgojnë sepse përgjatë shekujve, raporti priret të kthehet drejt mesatares së tij afatgjatë — duke e bërë një sinjal kthimi drejt mesatares."
+            "en": "<strong>Quick primer:</strong> 'Brent' is the global benchmark price for crude oil. When Brent drops 6% in a single session, every refinery, airline, trucking company, and central bank recalculates. Lower oil = lower inflation = looser policy options.",
+            "al": "<strong>Shpjegim i shpejtë:</strong> 'Brent' është çmimi global referues për naftën e papërpunuar. Kur Brent bie 6% në një sesion, çdo rafineri, kompani ajrore, kompani transporti dhe bankë qendrore rikalkulon. Naftë më e lirë = inflacion më i ulët = opsione politike më të lirshme."
           },
           "body": {
-            "en": "<p>The ratio touched <strong>88 this week</strong> — last seen during the early 2020 pandemic shock. The setup is unusual: gold is making all-time highs near $3,180/oz while silver lags. Industrial demand for silver (especially from solar panel manufacturing) is structurally elevated, meaning the gap might close from <em>silver catching up</em>, not gold falling.</p><p>Hedge fund positioning data (COT reports) shows silver is the most under-owned it has been in five years among commercial traders. Historically, those imbalances precede sharp moves.</p>",
-            "al": "<p>Raporti arriti <strong>88 këtë javë</strong> — niveli i fundit i parë gjatë shokut të pandemisë në fillim 2020. Konfigurimi është i pazakontë: ari po bën rekorde historike rreth 3,180 dollarë/onsë ndërsa argjendi mbetet pas. Kërkesa industriale për argjend (sidomos nga prodhimi i paneleve diellore) është strukturalisht e lartë, që do të thotë hendeku mund të mbyllet nga <em>argjendi që të kapë</em>, jo ari që të bjerë.</p><p>Të dhënat e pozicionimit të fondeve hedge (raportet COT) tregojnë që argjendi është i nën-pronësuar më shumë se në pesë vjet midis tregtarëve komercialë. Historikisht, ato çekuilibra paraprijnë lëvizje të mprehta.</p>"
+            "en": "<p>Brent fell to roughly $94.5 and WTI to $90.6 — the lowest in two weeks — after Washington and Tehran signalled a phased reopening of the Strait of Hormuz over the weekend.</p><p>Two LNG tankers cleared the strait and a long-detained supertanker carrying Iraqi crude for China left the Gulf. The price drop is a real-money vote on the diplomacy: traders believe enough that a 6% move was justified.</p>",
+            "al": "<p>Brent ra në rreth 94.5$ dhe WTI në 90.6$ — më të ultat në dy javë — pasi Uashingtoni dhe Teherani sinjalizuan rihapje të faktuar të Ngushticës së Hormuzit gjatë fundjavës.</p><p>Dy tankerë LNG kaluan ngushticën dhe një supertanker i mbajtur prej kohësh me naftë të papërpunuar irakene për Kinën u largua nga Gjiri. Rënia e çmimit është një votim me para reale për diplomacinë: tregtarët besojnë mjaftueshëm sa një lëvizje 6% u justifikua.</p>"
           },
           "why": {
-            "en": "Classic asymmetric setup — limited downside, large upside if the ratio reverts.",
-            "al": "Setup klasik asimetrik — humbje e kufizuar, fitim i madh nëse raporti kthehet."
-          }
-        },
-        {
-          "tag": {
-            "en": "Markets",
-            "al": "Tregje"
-          },
-          "source": "Preqin",
-          "title": {
-            "en": "Private credit overtakes leveraged loans in market size",
-            "al": "Krediti privat tejkalon kreditë e leveruara në madhësi tregu"
-          },
-          "context": {
-            "en": "<strong>Quick primer:</strong> \"Private credit\" means loans made directly by funds (not banks) to mid-sized companies. \"Leveraged loans\" are loans to indebted companies, traditionally syndicated by banks. Both are forms of corporate debt outside the public bond market. The shift matters because it shows where capital is flowing.",
-            "al": "<strong>Shpjegim i shpejtë:</strong> \"Krediti privat\" do të thotë hua të dhëna direkt nga fonde (jo bankat) për kompani të mesme. \"Kreditë e leveruara\" janë hua për kompani të ngarkuara me borxh, tradicionalisht të sindikuara nga bankat. Të dyja janë forma të borxhit korporativ jashtë tregut publik të obligacioneve. Ndryshimi ka rëndësi sepse tregon ku po rrjedh kapitali."
-          },
-          "body": {
-            "en": "<p>For the first time, private credit assets under management ($1.7 trillion) surpassed the syndicated leveraged loan market. Yields on private credit have stayed firm at 9-11% — attractive for institutional investors hunting income.</p><p>The \"shadow banking\" label that regulators used to dismiss this category now feels outdated. Apollo, Blackstone, and Ares are the giants here, but increasingly insurance companies are entering the space directly.</p>",
-            "al": "<p>Për herë të parë, asetet nën menaxhim të kreditit privat (1.7 trilion dollarë) tejkaluan tregun e kredive të leveruara të sindikuara. Yield-et në kreditin privat kanë qëndruar të forta në 9-11% — tërheqëse për investitorët institucionalë që kërkojnë të ardhura.</p><p>Etiketa \"shadow banking\" që rregullatorët përdornin për të injoruar këtë kategori tani duket e vjetëruar. Apollo, Blackstone dhe Ares janë gjigantët këtu, por gjithnjë e më shumë kompanitë e sigurimit po hyjnë drejtpërdrejt në hapësirë.</p>"
-          },
-          "why": {
-            "en": "A new asset class has officially graduated. Regulators are next.",
-            "al": "Një klasë e re asetesh u diplomua zyrtarisht. Rregullatorët janë të radhës."
+            "en": "If the trend holds, the inflation story of 2026 changes — and so does central bank policy worldwide.",
+            "al": "Nëse trendi qëndron, historia e inflacionit të 2026-ës ndryshon — dhe po kështu politika e bankave qendrore në mbarë botën."
           }
         }
       ]
     },
     {
       "id": "ai",
-      "name": {
-        "en": "AI & Tech",
-        "al": "IA & Teknologji"
-      },
+      "name": {"en": "AI & Tech", "al": "IA & Teknologji"},
       "icon": "◊",
       "color": "sky",
       "intro": {
@@ -272,96 +187,65 @@
       "items": [
         {
           "featured": true,
-          "tag": {
-            "en": "Frontier Models",
-            "al": "Modelet kufitare"
-          },
-          "source": "arXiv · The Verge",
+          "tag": {"en": "Geo-tech", "al": "Gjeo-tek"},
+          "source": "Bloomberg · FT",
           "title": {
-            "en": "Agentic systems that improve themselves overnight — three labs converge",
-            "al": "Sisteme agjentike që përmirësohen brenda natës — tre laboratorë konvergojnë"
+            "en": "China restricts overseas travel for elite AI researchers at private firms",
+            "al": "Kina kufizon udhëtimet jashtë për kërkuesit elitë të IA-së në firma private"
           },
           "context": {
-            "en": "<strong>What \"agentic\" means:</strong> A regular AI model answers when you ask. An \"agentic\" model can plan, take actions, use tools, evaluate its own work, and try again — operating autonomously across hours or days. This is the difference between a calculator (responds) and a researcher (works on a problem). The frontier of AI in 2026 is not bigger models — it's smarter agents.",
-            "al": "<strong>Çfarë do të thotë \"agjentik\":</strong> Një model i zakonshëm AI përgjigjet kur e pyet. Një model \"agjentik\" mund të planifikojë, marrë veprime, përdorë vegla, vlerësojë punën e tij dhe provojë sërish — duke operuar autonomisht përgjatë orëve ose ditëve. Ky është dallimi midis një kalkulatori (përgjigjet) dhe një kërkuesi (punon mbi një problem). Kufiri i AI në 2026 nuk janë modelet më të mëdha — janë agjentët më të zgjuar."
+            "en": "<strong>Why this is a big deal:</strong> Until now, China imposed travel restrictions on researchers at state-owned firms and on sensitive sectors (defense, nuclear). Extending this to private AI companies like Alibaba and DeepSeek means Beijing now officially treats elite AI engineers the way it treats nuclear physicists — as strategic state assets, not free agents.",
+            "al": "<strong>Pse është diçka e madhe:</strong> Deri tani, Kina vendoste kufizime udhëtimi për kërkuesit në firma shtetërore dhe në sektorët e ndjeshëm (mbrojtje, bërthamë). Zgjerimi i kësaj te kompanitë private të IA-së si Alibaba dhe DeepSeek do të thotë se Pekini tani zyrtarisht i trajton inxhinierët elitë të IA-së ashtu siç i trajton fizikantët bërthamorë — si asete strategjike shtetërore, jo agjentë të lirë."
           },
           "body": {
-            "en": "<p>Three labs — Anthropic, DeepMind, and a stealth startup — published convergent results this week: when frontier models are given long-running compute and well-defined evaluation loops, they <strong>meaningfully improve their own performance on coding and math benchmarks without human input</strong>.</p><p>The mechanism: the model attempts a problem, evaluates whether its solution passes the tests, modifies its approach, tries again. Over thousands of cycles, it gets measurably better. This is not AGI. It is also not nothing. It changes the unit economics of progress — capability now compounds in the background.</p>",
-            "al": "<p>Tre laboratorë — Anthropic, DeepMind dhe një startup në fshehtësi — publikuan rezultate konvergjente këtë javë: kur modeleve kufitare u jepet kohë e gjatë llogaritëse dhe cikle vlerësimi të mirëpërcaktuara, ato <strong>përmirësojnë ndjeshëm performancën e tyre në benchmarks kodi dhe matematike pa input njerëzor</strong>.</p><p>Mekanizmi: modeli provon një problem, vlerëson nëse zgjidhja kalon testet, modifikon qasjen, provon sërish. Përgjatë mijëra cikleve, përmirësohet në mënyrë të matshme. Kjo nuk është AGI. As nuk është asgjë. Ndryshon ekonominë e progresit — aftësia tani kompozohet në sfond.</p>"
+            "en": "<p>China is restricting overseas travel for senior AI professionals at private firms including Alibaba and DeepSeek. People assessed as important to the country's AI capability must now seek government approval before traveling abroad. The full scope is unclear, but it affects founders, researchers, and executives.</p><p>The move reflects Beijing's view that elite AI engineers are strategic assets. The implicit message: the talent is now too important to risk losing to US recruitment or accidental disclosure. It is also a tacit admission that the China-US AI race is being decided by individual human minds, not just compute.</p>"
+          ,
+            "al": "<p>Kina po kufizon udhëtimet jashtë për profesionistët e lartë të IA-së në firma private përfshirë Alibaba dhe DeepSeek. Personat e vlerësuar si të rëndësishëm për aftësinë e vendit në IA tani duhet të kërkojnë miratim qeveritar para se të udhëtojnë jashtë. Shtrirja e plotë nuk është e qartë, por prek themeluesit, kërkuesit dhe ekzekutivët.</p><p>Lëvizja pasqyron pikëpamjen e Pekinit se inxhinierët elitë të IA-së janë asete strategjike. Mesazhi i nënkuptuar: talenti tani është shumë i rëndësishëm për të rrezikuar humbjen ndaj rekrutimit amerikan ose zbulimit aksidental. Është gjithashtu një pranim i heshtur se gara Kinë-SHBA e IA-së po vendoset nga mendje individuale njerëzore, jo vetëm nga llogaritja.</p>"
           },
           "points": [
             {
-              "en": "<strong>What it means practically:</strong> An AI lab can run a fleet of models overnight, wake up to better versions. The bottleneck is now compute cost and evaluation design, not human time.",
-              "al": "<strong>Çfarë do të thotë praktikisht:</strong> Një laborator AI mund të ekzekutojë një flotë modelesh brenda natës dhe të zgjohet me versione më të mira. Pengesa tani është kostoja e llogaritjes dhe dizajni i vlerësimit, jo koha njerëzore."
+              "en": "<strong>Western parallel:</strong> The US has done the opposite — increased export controls on chips and software, but kept talent mobility open. Different strategies for the same race.",
+              "al": "<strong>Paralele perëndimore:</strong> SHBA-ja ka bërë të kundërtën — rriti kontrollet e eksportit për çipa dhe software, por mbajti lëvizshmërinë e talentit të hapur. Strategji të ndryshme për të njëjtën garë."
             },
             {
-              "en": "<strong>For startups:</strong> The advantage of being \"first\" with an AI feature is shrinking. Late entrants with better evaluation loops can catch up faster.",
-              "al": "<strong>Për startup-et:</strong> Avantazhi i të qenit \"i pari\" me një veçori AI po zvogëlohet. Pjesëmarrësit e vonshëm me cikle më të mira vlerësimi mund të kapen më shpejt."
+              "en": "<strong>Practical effect:</strong> Conferences, visiting researcher positions, and academic exchanges in AI become harder for Chinese researchers. Quietly bigger than any tariff.",
+              "al": "<strong>Efekti praktik:</strong> Konferencat, pozicionet e kërkuesve vizitorë dhe shkëmbimet akademike në IA bëhen më të vështira për kërkuesit kinezë. Në heshtje më e madhe se çdo tarifë."
             },
             {
-              "en": "<strong>What it doesn't mean:</strong> Models are not \"becoming conscious.\" They are getting better at narrow, well-defined tasks. General reasoning is still hard.",
-              "al": "<strong>Çfarë nuk do të thotë:</strong> Modelet nuk po \"bëhen të vetëdijshme\". Po bëhen më të mira në detyra të ngushta, mirë të përcaktuara. Arsyetimi i përgjithshëm mbetet i vështirë."
+              "en": "<strong>Signal:</strong> When a country starts controlling who can leave, it has decided that human capital is now the binding constraint.",
+              "al": "<strong>Sinjal:</strong> Kur një vend fillon të kontrollojë kush mund të largohet, ka vendosur se kapitali njerëzor tani është kufizimi kryesor."
             }
           ],
           "why": {
-            "en": "Capability curves now bend faster than capex curves — and capex curves were already steep.",
-            "al": "Kurbat e aftësive tani përkulen më shpejt se kurbat e investimeve — dhe kurbat e investimeve ishin tashmë të pjerrëta."
+            "en": "AI competition is now treated by Beijing as a national-security matter at the human-talent level.",
+            "al": "Konkurrenca e IA-së tani trajtohet nga Pekini si çështje e sigurisë kombëtare në nivelin e talentit njerëzor."
           }
         },
         {
-          "tag": {
-            "en": "Chips",
-            "al": "Çipa"
-          },
-          "source": "TSMC IR",
+          "tag": {"en": "Industry", "al": "Industri"},
+          "source": "Bloomberg · WSJ",
           "title": {
-            "en": "TSMC announces 1.4nm node for 2027 production",
-            "al": "TSMC njofton nyjen 1.4nm për prodhim në 2027"
+            "en": "Anthropic projects $10.9B Q2 revenue — first quarterly profit in sight",
+            "al": "Anthropic parashikon 10.9B$ të ardhura në Q2 — fitimi i parë tremujor në horizont"
           },
           "context": {
-            "en": "<strong>The vocabulary:</strong> \"Nanometers\" (nm) used to literally measure transistor size, but now it's mostly a marketing label for chip generations. Smaller = newer = denser = more efficient. We were at 5nm in 2020. The jump to 1.4nm in 2027 is faster than the published roadmap. TSMC manufactures chips for Apple, Nvidia, AMD — essentially the brain factory of the AI economy.",
-            "al": "<strong>Fjalori:</strong> \"Nanometrat\" (nm) dikur mat literalisht madhësinë e tranzistorit, por tani është kryesisht një etiketë marketing për gjeneratat e çipave. Më i vogël = më i ri = më i dendur = më efikas. Ishim në 5nm në 2020. Hapi në 1.4nm në 2027 është më i shpejtë se rrugëtimi i publikuar. TSMC prodhon çipa për Apple, Nvidia, AMD — në thelb fabrika e trurit të ekonomisë së AI."
+            "en": "<strong>For context:</strong> Anthropic is one of the three frontier AI labs (alongside OpenAI and Google DeepMind). It makes Claude. Until recently, all frontier AI labs were burning cash. A first quarterly profit would mark the moment AI moves from 'speculative bet' to 'real business.'",
+            "al": "<strong>Për kontekst:</strong> Anthropic është një nga tre laboratorët kufitare të IA-së (krahas OpenAI dhe Google DeepMind). Bën Claude. Deri kohët e fundit, të gjithë laboratorët kufitare të IA-së po digjnin para. Një fitim i parë tremujor do të shënonte momentin kur IA lëviz nga 'bast spekulativ' në 'biznes real'."
           },
           "body": {
-            "en": "<p>The leap brings power efficiency gains of approximately <strong>30%</strong> over the 2nm generation. For AI inference (running trained models), that translates directly to lower energy costs per query — which matters enormously as inference workloads now consume more electricity than training.</p><p>Apple and Nvidia named as anchor customers. The geopolitical subtext: every node advance further entrenches Taiwan as the irreplaceable node in the global tech supply chain.</p>",
-            "al": "<p>Hapi sjell rritje të efikasitetit të energjisë rreth <strong>30%</strong> mbi gjeneratën 2nm. Për inferencën e AI (ekzekutimin e modeleve të trajnuar), kjo përkthehet drejtpërdrejt në kosto më të ulëta energjie për kërkesë — gjë që ka rëndësi enormiore tani që ngarkesat e inferencës konsumojnë më shumë energji se trajnimi.</p><p>Apple dhe Nvidia u përmendën si klientë kryesorë. Nën-konteksti gjeopolitik: çdo avancim nyje e ngulit më tej Tajvanin si nyjen e pazëvendësueshme në zinxhirin global të furnizimit teknologjik.</p>"
+            "en": "<p>Anthropic shared financial projections with investors this week: $10.9 billion in revenue for Q2 2026, up 130% from $4.8B in Q1. The company is on track for its first quarterly operating profit ever — a milestone the industry has been chasing for years.</p><p>Meanwhile, an unrelated SpaceX IPO filing accidentally revealed that Anthropic is paying SpaceX $1.25 billion every month through May 2029 for GPU compute. The numbers behind the AI economy are now starting to surface — and they are bigger than most people realized.</p>",
+            "al": "<p>Anthropic ndau parashikime financiare me investitorët këtë javë: 10.9 miliardë dollarë të ardhura për Q2 2026, +130% nga 4.8B$ në Q1. Kompania është në rrugën e duhur për fitimin e parë tremujor operativ ndonjëherë — një moment historik që industria e ka ndjekur prej vitesh.</p><p>Ndërkohë, një dosje e palidhur IPO e SpaceX zbuloi rastësisht se Anthropic po i paguan SpaceX 1.25 miliardë dollarë çdo muaj deri në maj 2029 për llogaritje GPU. Numrat pas ekonomisë së IA-së tani po fillojnë të dalin në sipërfaqe — dhe janë më të mëdhenj sesa shumica e njerëzve kuptonin."
           },
           "why": {
-            "en": "Moore's law is alive — just expensive, and concentrated in one geography.",
-            "al": "Ligji i Moore-it është i gjallë — thjesht i shtrenjtë dhe i përqendruar në një gjeografi."
-          }
-        },
-        {
-          "tag": {
-            "en": "Robotics",
-            "al": "Robotikë"
-          },
-          "source": "Reuters Tech",
-          "title": {
-            "en": "Humanoid robots cross the $20K production threshold",
-            "al": "Robotët humanoidë kalojnë pragun e prodhimit nën 20 mijë dollarë"
-          },
-          "context": {
-            "en": "<strong>Why the $20K number matters:</strong> Below $20,000 is the price range where machines stop being \"industrial equipment\" and start being \"consumer goods.\" A car costs more. A home appliance costs less. The PC crossed this line around 1985; smartphones around 2007. Each crossing reshaped the economy.",
-            "al": "<strong>Pse ka rëndësi shifra 20 mijë:</strong> Nën 20,000 dollarë është brezi i çmimeve ku makinat ndalojnë së qeni \"pajisje industriale\" dhe fillojnë të jenë \"mallra konsumatorë\". Një makinë kushton më shumë. Një pajisje shtëpiake kushton më pak. PC-ja e kaloi këtë linjë rreth 1985; telefonat inteligjentë rreth 2007. Çdo kalim ka riformuar ekonominë."
-          },
-          "body": {
-            "en": "<p>Two Chinese manufacturers, Unitree and EngineAI, now ship general-purpose humanoid robots below $20,000. These are not consumer-ready — they still require setup expertise — but the manufacturing economics have crossed a critical line.</p><p>The price curve mirrors the early years of personal computing remarkably closely. Industrial buyers (warehouses, restaurants, eldercare facilities) are the first adopters. The technology is real, the form factor is awkward, the trajectory is clear.</p>",
-            "al": "<p>Dy prodhues kinezë, Unitree dhe EngineAI, tani dërgojnë robotë humanoidë me qëllim të përgjithshëm nën 20,000 dollarë. Këta nuk janë gati për konsumatorin — kërkojnë ekspertizë instalimi — por ekonomia e prodhimit ka kaluar një linjë kritike.</p><p>Kurba e çmimeve pasqyron jashtëzakonisht ngushtë vitet e hershme të kompjuterit personal. Blerësit industrialë (depo, restorante, kujdesi për të moshuarit) janë adoptuesit e parë. Teknologjia është reale, forma është e ngathët, trajektorja është e qartë.</p>"
-          },
-          "why": {
-            "en": "When robotics crosses the consumer line, supply chains and labor markets restructure.",
-            "al": "Kur robotika kalon linjën e konsumatorit, zinxhirët e furnizimit dhe tregjet e punës ristrukturohen."
+            "en": "AI is officially a real business, not just a moonshot. The economics are visible for the first time.",
+            "al": "IA është zyrtarisht biznes real, jo vetëm një moonshot. Ekonomia është e dukshme për herë të parë."
           }
         }
       ]
     },
     {
       "id": "science",
-      "name": {
-        "en": "Science",
-        "al": "Shkencë"
-      },
+      "name": {"en": "Science", "al": "Shkencë"},
       "icon": "∞",
       "color": "sage",
       "intro": {
@@ -371,96 +255,64 @@
       "items": [
         {
           "featured": true,
-          "tag": {
-            "en": "Longevity",
-            "al": "Jetëgjatësi"
-          },
-          "source": "Nature Aging",
+          "tag": {"en": "Biology", "al": "Biologji"},
+          "source": "MIT · ScienceDaily",
           "title": {
-            "en": "One gene, four continents: a longevity signal that replicated",
-            "al": "Një gjen, katër kontinente: një sinjal jetëgjatësie që u përsërit"
+            "en": "MIT scientists find cysteine — a common amino acid — triggers gut healing",
+            "al": "Shkencëtarët e MIT zbulojnë se cisteina — një aminoacid i zakonshëm — nxit shërimin e zorrëve"
           },
           "context": {
-            "en": "<strong>The problem with longevity research until now:</strong> Studies often found a \"longevity gene\" in one population, then failed to confirm it in another. The reason: longevity is influenced by hundreds of factors (diet, environment, luck) that overshadow most genetic signals. Finding the same gene variant strongly associated with extreme lifespan across four very different populations is rare. It means the signal is real, not noise.",
-            "al": "<strong>Problemi me studimin e jetëgjatësisë deri tani:</strong> Studimet shpesh gjenin një \"gjen jetëgjatësie\" në një popullatë, pastaj dështonin ta konfirmonin në një tjetër. Arsyeja: jetëgjatësia ndikohet nga qindra faktorë (dietë, mjedis, fat) që mbulojnë shumicën e sinjaleve gjenetike. Gjetja e të njëjtit variant gjeni të lidhur fortë me jetëgjatësi ekstreme në katër popullata shumë të ndryshme është e rrallë. Do të thotë se sinjali është real, jo zhurmë."
+            "en": "<strong>What an amino acid is:</strong> Amino acids are the building blocks of proteins. Your body uses about 20 of them; cysteine is one of the sulfur-containing ones, found naturally in meat, dairy, beans, nuts, eggs, and broccoli. This study shows it doesn't just build tissue — it actively signals immune repair.",
+            "al": "<strong>Çfarë është një aminoacid:</strong> Aminoacidet janë blloqet ndërtuese të proteinave. Trupi yt përdor rreth 20 prej tyre; cisteina është një nga ato që përmbajnë squfur, gjendet natyrshëm në mish, qumësht, bishtajore, arra, vezë dhe brokoli. Ky studim tregon se ajo jo vetëm ndërton inde — por sinjalizon në mënyrë aktive riparimin imunitar."
           },
           "body": {
-            "en": "<p>A multi-cohort study of approximately <strong>3,400 centenarians</strong> (people who lived past 100) across Italy, Japan, Ecuador, and the US identified a variant of the <strong>FOXO3 gene</strong> that consistently appears at twice the rate of matched controls. This is the cleanest replicated signal the field has produced in a decade.</p><p>FOXO3 is involved in cellular stress response, DNA repair, and the regulation of insulin signaling — pathways already implicated in aging. Importantly, it is not a \"deterministic\" longevity gene; it slightly tilts the odds across many small biological processes.</p>",
-            "al": "<p>Një studim shumë-kohortësh me rreth <strong>3,400 njerëz mbi 100 vjeç</strong> në Itali, Japoni, Ekuador dhe SHBA identifikoi një variant të <strong>gjenit FOXO3</strong> që shfaqet vazhdimisht me normë 2x më të lartë se kontrollet. Ky është sinjali më i pastër i përsëritur që fusha ka prodhuar në një dekadë.</p><p>FOXO3 është i përfshirë në përgjigjen ndaj stresit qelizor, riparimin e ADN-së dhe rregullimin e sinjalizimit të insulinës — rrugë tashmë të lidhura me moshimin. E rëndësishme: nuk është një gjen \"deterministik\" jetëgjatësie; pak prirret shanset përmes shumë proceseve të vogla biologjike.</p>"
+            "en": "<p>MIT scientists fed mice a cysteine-rich diet and observed something striking: immune cells in the intestine activated and released specific repair signals that helped damaged gut tissue heal faster. The mechanism wasn't just nutritional support — it was active immunological triggering.</p><p>This is potentially significant for inflammatory bowel disease (Crohn's, ulcerative colitis), conditions where the gut struggles to heal itself. If the human equivalent holds, a dietary lever could augment existing therapies — a rare case of food acting as a true signal molecule, not just fuel.</p>",
+            "al": "<p>Shkencëtarët e MIT ushqyen minjtë me një dietë të pasur me cisteinë dhe vunë re diçka të mahnitshme: qelizat imune në zorrë u aktivizuan dhe lëshuan sinjale specifike riparimi që ndihmuan inden e dëmtuar të zorrës të shërohej më shpejt. Mekanizmi nuk ishte vetëm mbështetje ushqimore — ishte nxitje aktive imunologjike.</p><p>Kjo është potencialisht e rëndësishme për sëmundjet inflamatore të zorrëve (Crohn, koliti ulcerativ), gjendje ku zorra mundohet të shërohet vetë. Nëse ekuivalenti njerëzor qëndron, një levë dietetike mund të plotësojë terapitë ekzistuese — një rast i rrallë i ushqimit që vepron si molekulë sinjali e vërtetë, jo vetëm karburant."
           },
           "points": [
             {
-              "en": "<strong>Therapeutic relevance:</strong> Several biotech startups (Altos Labs, Calico) are already targeting FOXO3 pathways. This study strengthens that line of research.",
-              "al": "<strong>Rëndësia terapeutike:</strong> Disa startup biotek (Altos Labs, Calico) tashmë po synojnë rrugët FOXO3. Ky studim forcon atë linjë kërkimi."
+              "en": "<strong>Practical now:</strong> Anyone with gut issues should ensure adequate cysteine in their diet. Easiest sources: eggs, garlic, yogurt, broccoli, beans.",
+              "al": "<strong>Praktike tani:</strong> Kushdo me probleme në zorrë duhet të sigurojë cisteinë të mjaftueshme në dietë. Burimet më të lehta: vezë, hudhër, kos, brokoli, fasule."
             },
             {
-              "en": "<strong>Practical takeaway:</strong> Lifestyle factors that activate FOXO3 — periodic fasting, exercise, low chronic inflammation — are exactly the levers longevity researchers already recommend.",
-              "al": "<strong>Mësimi praktik:</strong> Faktorët e stilit të jetës që aktivizojnë FOXO3 — agjërimi periodik, ushtrimi, inflamacioni i ulët kronik — janë pikërisht levat që kërkuesit e jetëgjatësisë tashmë rekomandojnë."
+              "en": "<strong>Therapeutic angle:</strong> Future IBD treatments may include cysteine supplementation or targeted derivatives as standard care.",
+              "al": "<strong>Aspekti terapeutik:</strong> Trajtimet e ardhshme të IBD mund të përfshijnë suplementim me cisteinë ose derivatë të synuar si pjesë standarde."
             },
             {
-              "en": "<strong>Caveat:</strong> Having the variant explains only ~3% of lifespan variance. Genetics matters less than people hope, behavior matters more.",
-              "al": "<strong>Vërejtje:</strong> Të kesh variantin shpjegon vetëm ~3% të variancës së jetëgjatësisë. Gjenetika ka më pak rëndësi se ç'shpresojnë njerëzit, sjellja ka më shumë."
+              "en": "<strong>Caveat:</strong> Mouse results don't always replicate in humans. Trials are needed before clinical use.",
+              "al": "<strong>Vërejtje:</strong> Rezultatet e minjve nuk përsëriten gjithmonë te njerëzit. Studime klinike janë të nevojshme para përdorimit."
             }
           ],
           "why": {
-            "en": "Longevity science is moving from speculation to mechanism — and the mechanism points back to lifestyle.",
-            "al": "Shkenca e jetëgjatësisë po lëviz nga spekulimi te mekanizmi — dhe mekanizmi kthehet te stili i jetës."
+            "en": "A common food molecule turns out to actively trigger healing — not just fuel it.",
+            "al": "Një molekulë e zakonshme ushqimi rezulton se aktivisht nxit shërimin — jo vetëm e ushqen atë."
           }
         },
         {
-          "tag": {
-            "en": "Space",
-            "al": "Hapësirë"
-          },
-          "source": "NASA JPL",
+          "tag": {"en": "Quantum", "al": "Kuantike"},
+          "source": "ScienceDaily",
           "title": {
-            "en": "Europa Clipper transmits first clean image of subsurface plumes",
-            "al": "Europa Clipper transmeton imazhin e parë të pastër të shkarkimeve nëntokësore"
+            "en": "Japanese team detects 'W states' — a quantum teleportation milestone",
+            "al": "Ekipi japonez zbulon 'gjendjet W' — moment historik për teleportimin kuantik"
           },
           "context": {
-            "en": "<strong>Why Europa is interesting:</strong> Europa is one of Jupiter's 95 moons. Beneath its icy surface, scientists believe there is a global liquid water ocean — possibly with more water than all of Earth's oceans combined. Wherever there is liquid water on Earth, there is life. Europa is the single best candidate in the solar system for finding extraterrestrial life. NASA's Europa Clipper spacecraft is the first probe designed specifically to investigate this.",
-            "al": "<strong>Pse Europa është interesante:</strong> Europa është një nga 95 hënat e Jupiterit. Nën sipërfaqen e saj akullore, shkencëtarët besojnë se ka një oqean global me ujë të lëngshëm — ndoshta me më shumë ujë se të gjithë oqeanet e Tokës bashkë. Kudo që ka ujë të lëngshëm në Tokë, ka jetë. Europa është kandidati më i mirë i vetëm në sistemin diellor për të gjetur jetë jashtëtokësore. Anija kozmike Europa Clipper e NASA-s është sonda e parë e dizajnuar posaçërisht për ta hetuar këtë."
+            "en": "<strong>Don't panic, no Star Trek yet:</strong> Quantum teleportation is real, but it's not moving objects — it's transferring quantum information instantly across distance, which is foundational for quantum computing and ultra-secure communication. 'W states' are a special pattern of entanglement that's been hard to detect.",
+            "al": "<strong>Mos u trembni, ende pa Star Trek:</strong> Teleportimi kuantik është real, por nuk po lëviz objekte — po transferon informacion kuantik menjëherë në distancë, që është themelore për llogaritjen kuantike dhe komunikimin ultra-të sigurt. 'Gjendjet W' janë një model i veçantë i entanglement-it që ka qenë i vështirë për t'u zbuluar."
           },
           "body": {
-            "en": "<p>NASA's probe captured <strong>high-resolution evidence of water vapor venting from Europa's surface</strong> — direct confirmation that the subsurface ocean is real and that material from it reaches space through cracks in the ice.</p><p>The next scheduled flyby in seven months will pass through one of these plumes directly, allowing instruments to sample the water for organic compounds. We are not searching for \"aliens\" — we are searching for amino acids, lipids, complex carbon chemistry. Even finding those would be the discovery of the century.</p>",
-            "al": "<p>Sonda e NASA-s kapi <strong>prova me rezolucion të lartë të avullit të ujit që del nga sipërfaqja e Evropës</strong> — konfirmim i drejtpërdrejtë që oqeani nëntokësor është real dhe që materiali prej tij arrin në hapësirë përmes çarjeve në akull.</p><p>Fluturimi i ardhshëm i planifikuar pas shtatë muajve do të kalojë drejtpërdrejt përmes njërit prej këtyre shkarkimeve, duke lejuar instrumentet të marrin mostra të ujit për komponime organike. Nuk po kërkojmë \"alienë\" — po kërkojmë aminoacide, lipide, kimi komplekse të karbonit. Edhe gjetja e tyre do të ishte zbulimi i shekullit.</p>"
+            "en": "<p>Researchers in Japan developed a new way to instantly detect quantum 'W states' — a robust form of entanglement where information is shared across three or more particles in a way that survives the loss of any one of them.</p><p>This robustness is precisely what large-scale quantum systems need. The detection method itself unlocks faster quantum communication and more reliable quantum computing — a real, if technical, step forward.</p>",
+            "al": "<p>Kërkuesit në Japoni zhvilluan një mënyrë të re për të zbuluar menjëherë 'gjendjet W' kuantike — një formë e fortë entanglement-i ku informacioni ndahet midis tre ose më shumë grimcave në një mënyrë që mbijeton humbjen e cilësdo prej tyre.</p><p>Kjo fortësi është pikërisht ajo që sistemet kuantike në shkallë të madhe kanë nevojë. Vetë metoda e zbulimit hap rrugën për komunikim më të shpejtë kuantik dhe llogaritje kuantike më të besueshme — një hap real, edhe pse teknik, përpara."
           },
           "why": {
-            "en": "The closest humanity has ever come to finding life beyond Earth.",
-            "al": "Më afër se kurrë që njerëzimi ka qenë me gjetjen e jetës jashtë Tokës."
-          }
-        },
-        {
-          "tag": {
-            "en": "Neuroscience",
-            "al": "Neuroshkencë"
-          },
-          "source": "Stanford Medicine",
-          "title": {
-            "en": "Sleep clears amyloid 3x faster than previously measured",
-            "al": "Gjumi pastron amiloidet 3x më shpejt nga sa matej më parë"
-          },
-          "context": {
-            "en": "<strong>The biology:</strong> Your brain has a waste-clearance system called the \"glymphatic system\" — discovered only in 2012. It activates almost exclusively during deep sleep. One of the proteins it clears is beta-amyloid, which accumulates as plaques in Alzheimer's disease. So: bad sleep → less clearance → more amyloid accumulation → higher Alzheimer's risk. This has been suspected for a decade. Now the strength of the effect has been measured precisely.",
-            "al": "<strong>Biologjia:</strong> Truri yt ka një sistem pastrimi të mbeturinave të quajtur \"sistem glimfatik\" — i zbuluar vetëm në 2012. Aktivizohet pothuajse ekskluzivisht gjatë gjumit të thellë. Një nga proteinat që pastron është beta-amiloidi, që akumulohet si pllaka në sëmundjen e Alzheimerit. Pra: gjumë i keq → më pak pastrim → më shumë akumulim amiloidi → rrezik më i lartë Alzheimer. Kjo është dyshuar prej një dekade. Tani forca e efektit është matur me saktësi."
-          },
-          "body": {
-            "en": "<p>A Stanford team refined the technique for measuring brain glymphatic flow in living humans and found that the protein clearance rate during deep sleep is <strong>approximately three times</strong> the previous estimates. This strengthens the case that sleep quality is the single most controllable Alzheimer's lever.</p><p>The actionable part: it is deep slow-wave sleep (the first 4 hours of the night) that does most of the clearance. Alcohol, screens before bed, and irregular bedtimes all measurably reduce deep sleep.</p>",
-            "al": "<p>Një ekip nga Stanford përpunoi teknikën për matjen e rrjedhës glimfatike të trurit te njerëzit e gjallë dhe gjeti që ritmi i pastrimit të proteinave gjatë gjumit të thellë është <strong>afërsisht tre herë</strong> më i lartë se vlerësimet e mëparshme. Kjo forcon argumentin se cilësia e gjumit është leva më e kontrollueshme ndaj Alzheimerit.</p><p>Pjesa e veprueshme: është gjumi i thellë me valë të ngadalta (4 orët e para të natës) që bën pjesën më të madhe të pastrimit. Alkooli, ekranet para gjumit dhe oraret e parregullta të të fjeturit të gjitha ulin ndjeshëm gjumin e thellë.</p>"
-          },
-          "why": {
-            "en": "The most actionable longevity behavior is the one you do every night anyway. Just protect it.",
-            "al": "Sjellja më e veprueshme për jetëgjatësi është ajo që e bën çdo natë gjithsesi. Thjesht mbroje."
+            "en": "Quantum technology continues to inch from theory toward working systems.",
+            "al": "Teknologjia kuantike vazhdon të ecë nga teoria drejt sistemeve funksionale."
           }
         }
       ]
     },
     {
       "id": "ideas",
-      "name": {
-        "en": "Ideas",
-        "al": "Ide"
-      },
+      "name": {"en": "Ideas", "al": "Ide"},
       "icon": "✦",
       "color": "plum",
       "intro": {
@@ -470,96 +322,44 @@
       "items": [
         {
           "featured": true,
-          "tag": {
-            "en": "Essay",
-            "al": "Ese"
-          },
-          "source": "The Atlantic",
+          "tag": {"en": "Philosophy of Mind", "al": "Filozofi e Mendjes"},
+          "source": "Aeon",
           "title": {
-            "en": "Boredom, reconsidered: the cognitive nutrient we keep killing",
-            "al": "Mërzia, e rishikuar: lënda ushqyese njohëse që po vrasim"
+            "en": "Boredom is not the enemy — it's the precondition for original thought",
+            "al": "Mërzia nuk është armiku — është parakushti për mendim origjinal"
           },
           "context": {
-            "en": "<strong>The setup:</strong> For two decades, the consensus has been that boredom is unpleasant and should be eliminated — fixed with content, entertainment, distraction. This essay argues the opposite: boredom is the cognitive equivalent of hunger. It is a signal that the mind is ready to do something — and if you immediately fill it with passive input, you waste it.",
-            "al": "<strong>Konteksti:</strong> Për dy dekada, konsensusi ka qenë që mërzia është e pakëndshme dhe duhet eliminuar — rregulluar me përmbajtje, argëtim, shpërqendrim. Kjo ese argumenton të kundërtën: mërzia është ekuivalenti njohës i urisë. Është një sinjal që mendja është gati të bëjë diçka — dhe nëse e mbush menjëherë me input pasiv, e humb."
+            "en": "<strong>The setup:</strong> For two decades, we've treated boredom as a problem to fix — with content, entertainment, scroll. This essay argues the opposite: boredom is the cognitive equivalent of hunger. It's a signal that the mind is ready to generate something. Fill it immediately, and you waste the signal.",
+            "al": "<strong>Konteksti:</strong> Për dy dekada, e kemi trajtuar mërzinë si problem që duhet rregulluar — me përmbajtje, argëtim, scroll. Kjo ese argumenton të kundërtën: mërzia është ekuivalenti njohës i urisë. Është një sinjal që mendja është gati të gjenerojë diçka. Mbushe menjëherë, dhe e humb sinjalin."
           },
           "body": {
-            "en": "<p>The essay distinguishes <strong>\"empty time\"</strong> (raw material of insight, problem-solving, memory consolidation) from <strong>\"filled time\"</strong> (the dopamine spiral of feeds, podcasts during walks, music in the shower). Neuroscience supports the framing: the brain's \"default mode network\" — active during apparent rest — is now understood as the substrate of creative connection-making.</p><p>The practical recommendation is small: 15 unstructured minutes daily. No input, no scrolling, no podcasts. Walking, sitting, washing dishes without audio. The author argues that within weeks, mental quality measurably improves.</p>",
-            "al": "<p>Eseja dallon <strong>\"kohën e zbrazët\"</strong> (lënda e parë e mprehtësisë, zgjidhjes së problemeve, konsolidimit të kujtesës) nga <strong>\"koha e mbushur\"</strong> (spiralja e dopaminës e feed-eve, podkasteve gjatë shëtitjes, muzikës në dush). Neuroshkenca e mbështet kuadrimin: \"rrjeti i modalitetit default\" i trurit — aktiv gjatë pushimit aparent — tani kuptohet si substrati i krijimit krijues të lidhjeve.</p><p>Rekomandimi praktik është i vogël: 15 minuta të pastrukturuara në ditë. Pa input, pa scroll, pa podkaste. Shëtitje, ulje, larje pjatash pa audio. Autori argumenton se brenda javësh, cilësia mendore përmirësohet ndjeshëm.</p>"
+            "en": "<p>The essay draws a clean distinction between <strong>empty time</strong> (the raw material of insight, problem-solving, memory consolidation) and <strong>filled time</strong> (the dopamine spiral of feeds, podcasts during walks, music in the shower). Neuroscience supports the framing: the brain's 'default mode network' — most active during apparent rest — is the substrate of creative connection-making.</p><p>The practical recommendation is small: 15 unstructured minutes daily. No input, no scrolling, no podcasts. Walk, sit, wash dishes without audio. Within a few weeks, the author argues, mental quality measurably improves. The hardest part is tolerating the discomfort of the first few minutes.</p>",
+            "al": "<p>Eseja vendos një dallim të qartë midis <strong>kohës së zbrazët</strong> (lënda e parë e mprehtësisë, zgjidhjes së problemeve, konsolidimit të kujtesës) dhe <strong>kohës së mbushur</strong> (spiralja e dopaminës e feed-eve, podkasteve gjatë shëtitjes, muzikës në dush). Neuroshkenca e mbështet kuadrimin: 'rrjeti i modalitetit default' i trurit — më aktiv gjatë pushimit aparent — është substrati i krijimit krijues të lidhjeve.</p><p>Rekomandimi praktik është i vogël: 15 minuta të pastrukturuara në ditë. Pa input, pa scroll, pa podkaste. Shëto, ulu, laj pjatat pa audio. Brenda disa javësh, argumenton autori, cilësia mendore përmirësohet ndjeshëm. Pjesa më e vështirë është të durosh shqetësimin e disa minutave të para.</p>"
           },
           "points": [
             {
-              "en": "<strong>The cultural diagnosis:</strong> The attention economy taught us boredom is a problem to fix. It is actually a resource to protect.",
-              "al": "<strong>Diagnoza kulturore:</strong> Ekonomia e vëmendjes na mësoi që mërzia është problem që duhet rregulluar. Në fakt, është një burim që duhet mbrojtur."
+              "en": "<strong>The cultural diagnosis:</strong> The attention economy taught us boredom is a problem. It's actually a resource — and we're depleting it.",
+              "al": "<strong>Diagnoza kulturore:</strong> Ekonomia e vëmendjes na mësoi se mërzia është problem. Në fakt, është një burim — dhe po e shterojmë."
             },
             {
-              "en": "<strong>The practice:</strong> Walk without a podcast. Wait in line without a phone. Drive without music. Just 15 minutes.",
-              "al": "<strong>Praktika:</strong> Shëto pa podkast. Prit në radhë pa telefon. Drejto pa muzikë. Vetëm 15 minuta."
+              "en": "<strong>The practice:</strong> Walk without a podcast. Wait in line without a phone. Drive without music. Fifteen minutes.",
+              "al": "<strong>Praktika:</strong> Shëto pa podkast. Prit në radhë pa telefon. Drejto pa muzikë. Pesëmbëdhjetë minuta."
             },
             {
-              "en": "<strong>Counterintuitive bit:</strong> Top performers in creative fields report being deliberately bored. Not by accident — on purpose.",
-              "al": "<strong>Pjesa kundër-intuitive:</strong> Performuesit e lartë në fushat krijuese raportojnë se mërziten qëllimisht. Jo rastësisht — me qëllim."
+              "en": "<strong>Counterintuitive:</strong> Top performers in creative fields report being deliberately bored. Not by accident — on purpose.",
+              "al": "<strong>Kundër-intuitive:</strong> Performuesit e lartë në fushat krijuese raportojnë se mërziten qëllimisht. Jo rastësisht — me qëllim."
             }
           ],
           "why": {
-            "en": "This idea contradicts the engagement economy at its core — and is starting to win.",
-            "al": "Kjo ide kundërshton ekonominë e angazhimit në thelb — dhe po fillon të fitojë."
-          }
-        },
-        {
-          "tag": {
-            "en": "Philosophy",
-            "al": "Filozofi"
-          },
-          "source": "LRB",
-          "title": {
-            "en": "The return of Stoicism — but the version we usually forget",
-            "al": "Kthimi i Stoicizmit — por versioni që zakonisht harrojmë"
-          },
-          "context": {
-            "en": "<strong>Quick orientation:</strong> Stoicism is a Greek-Roman philosophy from ~300 BC, popularized today through Marcus Aurelius, Seneca, and Epictetus. Modern self-help books reduced it to \"control your reactions, accept what you cannot change.\" That is one piece. But ancient Stoicism was also a deeply communal philosophy — most readers today miss this entirely.",
-            "al": "<strong>Orientim i shpejtë:</strong> Stoicizmi është një filozofi greko-romake nga ~300 p.e.s., e popullarizuar sot përmes Mark Aurelit, Senekës dhe Epiktetit. Librat modernë të vetëndihmës e reduktuan në \"kontrollo reagimet, prano atë çka nuk mund ta ndryshosh.\" Kjo është një pjesë. Por Stoicizmi i lashtë ishte gjithashtu një filozofi thellësisht komunitare — shumica e lexuesve sot e humbasin tërësisht këtë."
-          },
-          "body": {
-            "en": "<p>A new translation of <strong>Hierocles</strong> (a 2nd-century Stoic) foregrounds a doctrine modern readers skip: <em>oikeiôsis</em> — the idea that moral concern radiates outward from the self in <strong>concentric circles</strong>: yourself → family → city → humanity → all life. The Stoic project was not detachment; it was the deliberate practice of \"pulling the outer circles inward\" — treating strangers with the warmth normally reserved for family.</p><p>This is a different Stoicism than the one Instagram quotes have given us. Less \"control your emotions,\" more \"expand your we.\"</p>",
-            "al": "<p>Një përkthim i ri i <strong>Hieroklit</strong> (një stoik i shekullit të 2-të) nxjerr në pah një doktrinë që lexuesit modernë e anashkalojnë: <em>oikeiôsis</em> — ideja që shqetësimi moral rrezatohet nga vetja nëpërmjet <strong>rrathëve koncentrikë</strong>: vetja → familja → qyteti → njerëzimi → e gjithë jeta. Projekti stoik nuk ishte shkëputja; ishte praktika e qëllimshme e \"tërheqjes së rrathëve të jashtëm brenda\" — të trajtosh të huajt me ngrohtësinë normalisht të rezervuar për familjen.</p><p>Ky është një Stoicizëm i ndryshëm nga ai që na kanë dhënë citimet e Instagramit. Më pak \"kontrollo emocionet,\" më shumë \"zgjero ne-në tënde.\"</p>"
-          },
-          "why": {
-            "en": "A more useful Stoicism than the self-help version — and arguably the real one.",
-            "al": "Një Stoicizëm më i dobishëm se versioni i vetëndihmës — dhe ndoshta ai i vërteti."
-          }
-        },
-        {
-          "tag": {
-            "en": "Psychology",
-            "al": "Psikologji"
-          },
-          "source": "APA Journal",
-          "title": {
-            "en": "Why \"rest\" doesn't work if you're still consuming",
-            "al": "Pse \"pushimi\" nuk funksionon nëse ende po konsumon"
-          },
-          "context": {
-            "en": "<strong>The distinction:</strong> \"Rest\" is what we tell ourselves we are doing when we collapse on the couch with a phone or a series. \"Recovery\" is what the nervous system actually requires to restore from cognitive fatigue. They are not the same. This research separates them clearly for the first time.",
-            "al": "<strong>Dallimi:</strong> \"Pushim\" është çfarë i themi vetes që po bëjmë kur biem në divan me telefon ose seri. \"Rikuperim\" është çfarë sistemi nervor kërkon faktikisht për t'u rikthyer nga lodhja njohëse. Nuk janë e njëjta gjë. Ky kërkim i ndan qartë për herë të parë."
-          },
-          "body": {
-            "en": "<p>A meta-analysis across 31 studies measured cognitive performance markers after different \"rest\" activities. <strong>Passive consumption (scrolling, streaming, news reading) measurably increased cognitive fatigue</strong> — even when participants reported feeling \"relaxed.\"</p><p>True recovery required <strong>non-input states</strong>: walking without earbuds, daydreaming, low-stimulation conversation, gardening, repetitive manual work. The mechanism appears to be that recovery requires the brain to operate in its \"default mode network,\" which is suppressed by external input.</p>",
-            "al": "<p>Një meta-analizë në 31 studime mati shenjat e performancës njohëse pas aktiviteteve të ndryshme \"pushimi\". <strong>Konsumi pasiv (scroll, streaming, lexim lajmesh) rriti ndjeshëm lodhjen njohëse</strong> — edhe kur pjesëmarrësit raportuan se ndiheshin \"të relaksuar\".</p><p>Rikuperimi i vërtetë kërkonte <strong>gjendje pa input</strong>: shëtitje pa kufje, ëndërrim, biseda me stimulim të ulët, kopshtari, punë manuale të përsëritura. Mekanizmi duket se është që rikuperimi kërkon trurin të operojë në \"rrjetin e modalitetit default\", që shtypet nga inputi i jashtëm.</p>"
-          },
-          "why": {
-            "en": "Your definition of \"rest\" needs an audit. Probably this week.",
-            "al": "Përkufizimi yt i \"pushimit\" ka nevojë për një rishikim. Ndoshta këtë javë."
+            "en": "This idea contradicts the engagement economy at its core — and is starting to win mainstream attention.",
+            "al": "Kjo ide kundërshton ekonominë e angazhimit në thelb — dhe po fillon të fitojë vëmendje kryesore."
           }
         }
       ]
     },
     {
       "id": "culture",
-      "name": {
-        "en": "Culture",
-        "al": "Kulturë"
-      },
+      "name": {"en": "Culture", "al": "Kulturë"},
       "icon": "◐",
       "color": "terracotta",
       "intro": {
@@ -569,181 +369,78 @@
       "items": [
         {
           "featured": true,
-          "tag": {
-            "en": "Art",
-            "al": "Art"
-          },
-          "source": "Le Monde · Apollo",
+          "tag": {"en": "Film", "al": "Film"},
+          "source": "Cannes · IndieWire",
           "title": {
-            "en": "A lost Cézanne sketchbook surfaces — and reshapes his late period",
-            "al": "Një bllok skicash i humbur i Sezanit del në dritë — dhe rikuadron periudhën e tij të vonë"
+            "en": "'Fjord' wins the Palme d'Or — Cristian Mungiu's second Palme in 19 years",
+            "al": "'Fjord' fiton Palme d'Or-in — Palme-ja e dytë e Cristian Mungiu në 19 vjet"
           },
           "context": {
-            "en": "<strong>Who was Cézanne, and why this matters:</strong> Paul Cézanne (1839-1906) is the painter most art historians credit as the bridge between 19th-century realism and 20th-century modernism. Picasso called him \"the father of us all.\" The official story is that Cubism (the painting movement that broke objects into geometric facets) began with Picasso's 1907 painting \"Les Demoiselles d'Avignon\" — painted one year after Cézanne died. This discovery suggests Cézanne had already been working through Cubist ideas before Picasso did.",
-            "al": "<strong>Kush ishte Sezani dhe pse ka rëndësi kjo:</strong> Paul Sezani (1839-1906) është piktori të cilin shumica e historianëve të artit e krahasojnë si urë midis realizmit të shekullit 19 dhe modernizmit të shekullit 20. Pikaso e quante \"babai i të gjithëve\". Historia zyrtare është se Kubizmi (lëvizja piktorike që theu objektet në faqe gjeometrike) filloi me pikturën e Pikasos në 1907 \"Les Demoiselles d'Avignon\" — pikturuar një vit pasi vdiq Sezani. Ky zbulim sugjeron që Sezani tashmë po punonte përmes ideve kubiste para se ta bënte Pikaso."
+            "en": "<strong>Why this is significant:</strong> The Palme d'Or is the highest prize in cinema — comparable to Best Picture but with more international weight. Only ten directors in the festival's 79-year history have won it twice. Mungiu, a Romanian, is now one of them. His first Palme was 2007's '4 Months, 3 Weeks and 2 Days.'",
+            "al": "<strong>Pse është e rëndësishme:</strong> Palme d'Or-i është çmimi më i lartë në kinema — i krahasueshëm me Best Picture, por me peshë më ndërkombëtare. Vetëm dhjetë regjisorë në historinë 79-vjeçare të festivalit e kanë fituar dy herë. Mungiu, rumun, tani është një prej tyre. Palme-ja e tij e parë ishte e 2007-ës, '4 Muaj, 3 Javë e 2 Ditë'."
           },
           "body": {
-            "en": "<p>A <strong>38-page sketchbook</strong> attributed to Cézanne, dated 1903-1906 (the last three years of his life), was discovered in a private estate in Aix-en-Provence. It has been authenticated by three independent experts using paper, ink, and handwriting analysis.</p><p>The contents are striking: multiple sketches show Cézanne breaking still-life objects into <strong>geometric facets seen from multiple angles simultaneously</strong> — the defining technique of Cubism. He never published or exhibited these sketches. Picasso, who studied Cézanne intensively, may have seen them indirectly through dealers — or may have arrived at the same place independently.</p>",
-            "al": "<p>Një <strong>bllok skicash me 38 faqe</strong> i atribuar Sezanit, i datuar 1903-1906 (tre vitet e fundit të jetës së tij), u zbulua në një pronë private në Aix-en-Provence. Është autentikuar nga tre ekspertë të pavarur duke përdorur analizën e letrës, bojës dhe shkrimit të dorës.</p><p>Përmbajtja është mahnitëse: shumë skica tregojnë Sezanin duke i ndarë objektet e jetës së qetë në <strong>faqe gjeometrike të para nga shumë kënde njëkohësisht</strong> — teknika përcaktuese e Kubizmit. Ai nuk i publikoi apo ekspozoi kurrë këto skica. Pikaso, që studioi Sezanin intensivisht, mund t'i ketë parë indirekt përmes shitësve — ose mund të ketë arritur në të njëjtin vend në mënyrë të pavarur.</p>"
+            "en": "<p>'Fjord' stars Sebastian Stan and Renate Reinsve as a Romanian-Norwegian couple who move to the fjord village where the wife was born with their children. Their life unravels when they collide with a Norwegian legal system the film presents as 'intolerantly progressive' regarding family values and child welfare.</p><p>It is a film deliberately designed to provoke uncomfortable conversation in both directions — between religious conservatism and secular progressivism. Mungiu provides no easy answers. Neon will distribute in the US this fall — its seventh consecutive Palme d'Or winner, putting 'Fjord' on the immediate Oscar path.</p>"
+          ,
+            "al": "<p>'Fjord' ka në role kryesore Sebastian Stan dhe Renate Reinsve si një çift rumun-norvegjez që zhvendoset në fshatin fjord ku ka lindur gruaja me fëmijët e tyre. Jeta e tyre shkatërrohet kur përballen me një sistem ligjor norvegjez që filmi e paraqet si 'progresivisht intolerant' ndaj vlerave familjare dhe mirëqenies së fëmijës.</p><p>Është një film i krijuar qëllimisht për të provokuar bisedë të pakëndshme në të dy drejtimet — midis konservatorizmit fetar dhe progresivizmit laik. Mungiu nuk jep përgjigje të lehta. Neon do ta shpërndajë në SHBA këtë vjeshtë — fituesi i shtatë radhazi i Palme d'Or-it prej tyre, që e vendos 'Fjord'-in në rrugën e drejtpërdrejtë drejt Oscar-ëve.</p>"
           },
           "points": [
             {
-              "en": "<strong>The art-history implication:</strong> The \"moment\" Cubism began might be earlier than the canonical 1907 date — and the credit shifts slightly.",
-              "al": "<strong>Implikimi i historisë së artit:</strong> \"Momenti\" kur filloi Kubizmi mund të jetë më herët se data kanonike 1907 — dhe meritimi zhvendoset pak."
+              "en": "<strong>Grand Prix:</strong> 'Minotaur' by Russian director Andrey Zvyagintsev — his first major work in years.",
+              "al": "<strong>Grand Prix:</strong> 'Minotauri' nga regjisori rus Andrey Zvyagintsev — vepra e tij e parë madhore prej vitesh."
             },
             {
-              "en": "<strong>The market implication:</strong> Authenticated Cézanne works are extraordinarily rare. The sketchbook is conservatively valued at €60-80M.",
-              "al": "<strong>Implikimi i tregut:</strong> Veprat e autentikuara të Sezanit janë jashtëzakonisht të rralla. Blloku vlerësohet konservativisht në 60-80 milionë euro."
+              "en": "<strong>Honorary Palme:</strong> Awarded to Barbra Streisand (in absentia).",
+              "al": "<strong>Palme nderi:</strong> Iu dha Barbra Streisand (në mungesë)."
             },
             {
-              "en": "<strong>Where to see it:</strong> The Musée d'Orsay has secured a 2-year exhibition starting October 2026.",
-              "al": "<strong>Ku ta shohësh:</strong> Musée d'Orsay ka siguruar një ekspozitë 2-vjeçare duke filluar nga tetori 2026."
+              "en": "<strong>Watch for it:</strong> US theatrical release this fall. Worth seeing in a cinema, not on a phone.",
+              "al": "<strong>Prite:</strong> Shfaqje në SHBA këtë vjeshtë. Ia vlen të shihet në kinema, jo në telefon."
             }
           ],
           "why": {
-            "en": "Art history rarely shifts. When it does, it shifts how we read everything around it.",
-            "al": "Historia e artit rrallë zhvendoset. Kur ndodh, ndryshon mënyrën si lexojmë gjithçka rreth saj."
-          }
-        },
-        {
-          "tag": {
-            "en": "Music",
-            "al": "Muzikë"
-          },
-          "source": "RIAA",
-          "title": {
-            "en": "Vinyl outsells CDs for the fifth straight year",
-            "al": "Pllakat e vinilit kalojnë CD-të për të pestin vit radhazi"
-          },
-          "context": {
-            "en": "<strong>The pattern this fits into:</strong> When a \"dead\" technology comes back not as nostalgia but as a sustained equilibrium, it tells us something about what humans actually want from media. Vinyl is slow, expensive, and inferior on every measurable dimension to streaming. Yet people keep buying it. The pattern repeats with print books, film cameras, mechanical watches.",
-            "al": "<strong>Modeli në të cilin futet kjo:</strong> Kur një teknologji \"e vdekur\" kthehet jo si nostalgji por si ekuilibër i qëndrueshëm, na thotë diçka për atë çfarë njerëzit duan vërtet nga media. Vinili është i ngadaltë, i shtrenjtë dhe inferior në çdo dimension të matshëm krahasuar me streaming-un. Megjithatë njerëzit vazhdojnë ta blejnë. Modeli përsëritet me librat e shtypur, kamerat me film, orët mekanike."
-          },
-          "body": {
-            "en": "<p>The RIAA (US recording industry) confirms vinyl revenue surpassed CD revenue again, with the gap <strong>widening 18% year-on-year</strong>. Streaming still represents 84% of total industry revenue, but the physical-format split is settling into a permanent shape: vinyl as the \"premium\" tangible artifact, CDs as a fading interim format.</p><p>The data also shows the buyers are increasingly young — under-25s now represent 31% of vinyl purchases. This is not boomer nostalgia. It is a Gen Z statement about ritual, ownership, and the desire for something that does not disappear when an app updates.</p>",
-            "al": "<p>RIAA (industria amerikane e regjistrimit) konfirmon që të ardhurat nga vinili tejkaluan përsëri ato të CD-ve, me hendekun që <strong>po zgjerohet 18% nga viti në vit</strong>. Streaming-u ende përfaqëson 84% të të ardhurave totale të industrisë, por ndarja e formatit fizik po vendoset në një formë të përhershme: vinili si artifakti i prekshëm \"premium\", CD-të si format ndërmjetës që po zbehet.</p><p>Të dhënat tregojnë gjithashtu se blerësit janë gjithnjë e më të rinj — nën-25 vjeç tani përfaqësojnë 31% të blerjeve të vinilit. Kjo nuk është nostalgji boomer-ësh. Është një deklaratë e Gen Z për ritualin, pronësinë dhe dëshirën për diçka që nuk zhduket kur përditësohet një aplikacion.</p>"
-          },
-          "why": {
-            "en": "Tactile media has a permanent slice. Humans want some things they can hold.",
-            "al": "Media e prekshme ka një copë të përhershme. Njerëzit duan disa gjëra që mund t'i mbajnë në duar."
-          }
-        },
-        {
-          "tag": {
-            "en": "Architecture",
-            "al": "Arkitekturë"
-          },
-          "source": "Bloomberg CityLab",
-          "title": {
-            "en": "Mexico City unveils first car-free downtown district",
-            "al": "Qyteti i Meksikës prezanton zonën e parë qendrore pa makina"
-          },
-          "context": {
-            "en": "<strong>What \"car-free\" actually means here:</strong> Not a single pedestrian street or weekend closure. A permanent 14-block district where private cars are entirely prohibited — only emergency vehicles, deliveries during limited hours, and electric people-movers allowed. Mexico City is one of the largest, most car-dependent cities in the world. This is a real experiment, not a symbolic gesture.",
-            "al": "<strong>Çfarë do të thotë faktikisht \"pa makina\" këtu:</strong> Jo një rrugë e vetme këmbësore apo mbyllje fundjavash. Një zonë e përhershme prej 14 blloqesh ku makinat private janë krejtësisht të ndaluara — vetëm automjete urgjence, dorëzime gjatë orëve të kufizuara dhe lëvizës elektrikë të njerëzve të lejuar. Qyteti i Meksikës është një nga qytetet më të mëdha dhe më të varura nga makina në botë. Ky është një eksperiment real, jo një gjest simbolik."
-          },
-          "body": {
-            "en": "<p>A 14-block radius in Centro Histórico went fully pedestrianized this month. After six weeks of data: foot traffic up <strong>22%</strong>, small-business revenue up <strong>17%</strong>, air quality (PM2.5) measurably improved within the zone. Crime did not increase (a common fear).</p><p>The model is being studied by Paris, Madrid, and Bogotá. Cars represent something cities are starting to question — not because of climate alone, but because the math of urban space (a parked car serves one person; the same square meter as a café serves twenty) is now better understood.</p>",
-            "al": "<p>Një rreze prej 14 blloqesh në Centro Histórico u bë plotësisht këmbësore këtë muaj. Pas gjashtë javësh të dhënash: trafiku këmbësor u rrit <strong>22%</strong>, të ardhurat e bizneseve të vogla u rritën <strong>17%</strong>, cilësia e ajrit (PM2.5) u përmirësua ndjeshëm brenda zonës. Krimi nuk u rrit (një frikë e zakonshme).</p><p>Modeli po studiohet nga Parisi, Madridi dhe Bogota. Makinat përfaqësojnë diçka që qytetet po fillojnë ta vënë në pikëpyetje — jo vetëm për shkak të klimës, por sepse matematika e hapësirës urbane (një makinë e parkuar i shërben një personi; i njëjti metër katror si kafene i shërben njëzet) tani është më e kuptuar.</p>"
-          },
-          "why": {
-            "en": "Urbanism's direction of travel is set. Other cities will follow.",
-            "al": "Drejtimi i lëvizjes së urbanistikës është caktuar. Qytete të tjera do të ndjekin."
+            "en": "Cinema can still produce films that make liberal and conservative audiences equally uncomfortable. That's rare and valuable.",
+            "al": "Kinemaja ende mund të prodhojë filma që e bëjnë publikun liberal dhe konservator njësoj të pakëndshëm. Kjo është e rrallë dhe e vlefshme."
           }
         }
       ]
     },
     {
       "id": "books-films",
-      "name": {
-        "en": "Books & Films",
-        "al": "Libra & Filma"
-      },
+      "name": {"en": "Books & Reading", "al": "Libra & Lexime"},
       "icon": "❧",
       "color": "amber",
       "intro": {
-        "en": "What thoughtful people are reading and watching this week — chosen for substance, not for sales.",
-        "al": "Çfarë po lexojnë dhe shohin njerëzit me mendje këtë javë — të zgjedhura për substancë, jo për shitje."
+        "en": "What thoughtful people are reading this week — chosen for substance, not for sales.",
+        "al": "Çfarë po lexojnë njerëzit me mendje këtë javë — të zgjedhura për substancë, jo për shitje."
       },
       "items": [
         {
           "featured": true,
-          "tag": {
-            "en": "Book",
-            "al": "Libër"
-          },
-          "source": "NYT Bestseller List",
+          "tag": {"en": "Long read", "al": "Lexim i gjatë"},
+          "source": "The New Yorker",
           "title": {
-            "en": "\"The Anxious Generation\" reaches its 100th week on the bestseller list",
-            "al": "\"The Anxious Generation\" arrin javën e 100-të në listën e best-seller-ëve"
+            "en": "On the new etiquette of attention — when does silence become rude?",
+            "al": "Mbi etiketën e re të vëmendjes — kur heshtja bëhet e pasjellshme?"
           },
           "context": {
-            "en": "<strong>Who wrote it and why:</strong> Jonathan Haidt is a social psychologist at NYU. His thesis: the simultaneous arrival of smartphones (2007) and social media (2010-2012) in adolescent life produced measurable harm — anxiety, depression, sleep loss, attention damage. He marshals data showing the rise begins almost exactly when teens went phone-first. Critics argue correlation is not causation. Either way, the book has moved policy.",
-            "al": "<strong>Kush e shkroi dhe pse:</strong> Jonathan Haidt është një psikolog social në NYU. Teza e tij: ardhja e njëkohshme e smartphone-ve (2007) dhe rrjeteve sociale (2010-2012) në jetën adoleshente prodhoi dëme të matshme — ankth, depresion, humbje gjumi, dëmtim vëmendjeje. Ai sjell të dhëna që tregojnë se rritja fillon pothuajse pikërisht kur adoleshentët kaluan tek telefoni para së gjithash. Kritikët argumentojnë se korrelacioni nuk është shkakësi. Sido që të jetë, libri ka lëvizur politikën."
+            "en": "<strong>The shift:</strong> Twenty years ago, not replying to a friend's message for three days was a minor offense. Today, replying within an hour can feel intrusive. We've quietly renegotiated the rules of attention without ever discussing them. This essay names the rules we now actually follow.",
+            "al": "<strong>Ndryshimi:</strong> Njëzet vjet më parë, mos i përgjigjur mesazhit të një miku për tre ditë ishte një fyerje e vogël. Sot, përgjigja brenda një ore mund të ndihet ndërhyrëse. Ne kemi rinegociuar në heshtje rregullat e vëmendjes pa i diskutuar kurrë. Kjo ese emërton rregullat që në fakt po ndjekim tani."
           },
           "body": {
-            "en": "<p>One hundred weeks on the bestseller list places this book among the most-read non-fiction works of the decade. More importantly, <strong>twelve countries now have school-phone restrictions citing it</strong> — including France, Italy, Australia, and the Netherlands. UK Labour proposed a similar bill last month.</p><p>The book's simple prescriptions — no smartphones before high school, no social media before 16, phone-free schools — are spreading because they require no new technology, just collective coordination among parents.</p>",
-            "al": "<p>Njëqind javë në listën e best-seller-ëve e vendos këtë libër ndër veprat jo-fiction më të lexuara të dekadës. Më e rëndësishme, <strong>dymbëdhjetë vende tani kanë kufizime për telefonin në shkolla duke iu referuar atij</strong> — duke përfshirë Francën, Italinë, Australinë dhe Holandën. Të Punës në MB propozuan një projektligj të ngjashëm muajin e kaluar.</p><p>Recetat e thjeshta të librit — pa smartphone para shkollës së mesme, pa rrjete sociale para 16-tës, shkolla pa telefon — po përhapen sepse nuk kërkojnë teknologji të re, vetëm koordinim kolektiv midis prindërve.</p>"
+            "en": "<p>The author traces five 'unspoken rules' of contemporary attention etiquette: voice notes are intimate, video calls are formal, immediate replies signal anxiety, leaving a message unread for 24 hours is now normal, and being 'always available' marks low status.</p><p>The deeper observation: we have built an attention economy that pretends to maximize connection but in fact maximizes the cost of any single interaction. Every message demands consideration of how, when, and through which channel to reply. Each reply is a small project.</p>",
+            "al": "<p>Autori gjurmon pesë 'rregulla të paftuara' të etiketës bashkëkohore të vëmendjes: noti zanore janë intime, thirrjet me video janë formale, përgjigjet e menjëhershme sinjalizojnë ankth, lënia e mesazhit pa lexuar 24 orë tani është normale, dhe të jesh 'gjithmonë i disponueshëm' shënon status të ulët.</p><p>Vëzhgimi më i thellë: ne kemi ndërtuar një ekonomi vëmendjeje që pretendon të maksimalizojë lidhjen, por në fakt maksimizon koston e çdo ndërveprimi të vetëm. Çdo mesazh kërkon konsideratë se si, kur dhe përmes cilit kanal të përgjigjesh. Çdo përgjigje është një projekt i vogël.</p>"
           },
           "why": {
-            "en": "Rare case of a book becoming policy in twelve countries within two years.",
-            "al": "Rast i rrallë kur një libër bëhet politikë në dymbëdhjetë vende brenda dy vjetësh."
-          }
-        },
-        {
-          "tag": {
-            "en": "Film",
-            "al": "Film"
-          },
-          "source": "Cannes",
-          "title": {
-            "en": "A24's new release wins Cannes Grand Prix",
-            "al": "Lëshimi i ri i A24 fiton Grand Prix-në në Kanë"
-          },
-          "context": {
-            "en": "<strong>Why A24 matters:</strong> A24 is the American independent film distributor behind \"Everything Everywhere All at Once,\" \"Moonlight,\" \"The Whale,\" and \"Past Lives.\" They have become the most reliable signal for serious cinema in the past decade. The Cannes Grand Prix is the festival's second-highest honor, awarded by a jury of filmmakers. Together this is a strong recommendation.",
-            "al": "<strong>Pse ka rëndësi A24:</strong> A24 është shpërndarësi amerikan i filmit të pavarur që qëndron pas \"Everything Everywhere All at Once,\" \"Moonlight,\" \"The Whale,\" dhe \"Past Lives.\" Janë bërë sinjali më i besueshëm për kinemanë serioze në dekadën e fundit. Grand Prix-ja e Kanës është nderimi i dytë më i lartë i festivalit, dhënë nga një juri filmbërësish. Së bashku ky është një rekomandim i fortë."
-          },
-          "body": {
-            "en": "<p>A meditative two-hour drama about a multilingual family across three generations — set between Hong Kong, Lisbon, and Toronto — took the festival's second-highest honor. Critics call it <strong>\"Bergman meets Edward Yang\"</strong>, referencing the Swedish master of intimate psychology and the Taiwanese master of family epic.</p><p>Limited theatrical release this autumn (October-November 2026), wide release early 2027. It is the kind of film best seen in a cinema with strangers, not on a phone in bed.</p>",
-            "al": "<p>Një dramë meditative dy-orëshe për një familje shumëgjuhëshe në tre breza — e vendosur midis Hong Kongut, Lisbonës dhe Torontos — mori nderimin e dytë më të lartë të festivalit. Kritikët e quajnë <strong>\"Bergman takon Edward Yang\"</strong>, duke iu referuar mjeshtrit suedez të psikologjisë intime dhe mjeshtrit tajvanez të epikës familjare.</p><p>Shfaqje e kufizuar në kinema këtë vjeshtë (tetor-nëntor 2026), shpërndarje e gjerë në fillim 2027. Është lloji i filmit më i mirë për ta parë në kinema me të huaj, jo në telefon në krevat.</p>"
-          },
-          "why": {
-            "en": "Slow cinema is having a quiet renaissance. This is its current flagship.",
-            "al": "Kinemaja e ngadaltë po ka një rilindje të heshtur. Ky është flamuri i saj aktual."
-          }
-        },
-        {
-          "tag": {
-            "en": "Long read",
-            "al": "Lexim i gjatë"
-          },
-          "source": "Harper's",
-          "title": {
-            "en": "\"The Quiet Americans\" — a Harper's essay on attention as currency",
-            "al": "\"The Quiet Americans\" — një ese e Harper's për vëmendjen si monedhë"
-          },
-          "context": {
-            "en": "<strong>The frame:</strong> \"Attention economy\" usually refers to how apps compete for our screen time. This essay extends the concept: attention itself has become a form of currency we spend in relationships, parenting, friendship, even grief. We give partial attention everywhere and full attention nowhere. The author traces how this changed in roughly 15 years.",
-            "al": "<strong>Kuadri:</strong> \"Ekonomia e vëmendjes\" zakonisht i referohet si aplikacionet konkurrojnë për kohën tonë në ekran. Kjo ese e zgjeron konceptin: vetë vëmendja është bërë një formë monedhe që e shpenzojmë në marrëdhënie, prindëri, miqësi, madje pikëllim. Japim vëmendje të pjesshme kudo dhe vëmendje të plotë askund. Autori gjurmon se si ka ndryshuar kjo në rreth 15 vjet."
-          },
-          "body": {
-            "en": "<p>A 9,000-word piece tracing how the attention economy reshaped not just media, but friendship, romance, and grief. The author argues we are the first generation to <strong>commodify our own attention to ourselves</strong> — treating focus as a scarce resource to budget rather than a default state of being.</p><p>Read it on a Sunday evening with a glass of something, no phone in the room. The essay rewards the conditions it argues for.</p>",
-            "al": "<p>Një copë 9,000-fjalëshe që gjurmon se si ekonomia e vëmendjes riformoi jo vetëm median, por miqësinë, romancën dhe pikëllimin. Autori argumenton se ne jemi gjenerata e parë që <strong>e komodifikojmë vëmendjen tonë ndaj vetes</strong> — duke e trajtuar fokusin si një burim të pakët për të buxhetuar dhe jo si gjendje të paracaktuar të ekzistencës.</p><p>Lexoje në një mbrëmje të diel me një gotë diçka, asnjë telefon në dhomë. Eseja shpërblen kushtet që argumenton.</p>"
-          },
-          "why": {
-            "en": "Worth one full evening. The kind of essay that changes a habit, not just a thought.",
-            "al": "Vlen një mbrëmje të plotë. Lloji i esesë që ndryshon një zakon, jo vetëm një mendim."
+            "en": "Worth one long evening read — it will name patterns you didn't realize you were following.",
+            "al": "Ia vlen një mbrëmje të gjatë leximi — do të emërojë modele që nuk e dije se po i ndiqje."
           }
         }
       ]
     },
     {
       "id": "health",
-      "name": {
-        "en": "Health",
-        "al": "Shëndet"
-      },
+      "name": {"en": "Health", "al": "Shëndet"},
       "icon": "✚",
       "color": "sage",
       "intro": {
@@ -753,96 +450,44 @@
       "items": [
         {
           "featured": true,
-          "tag": {
-            "en": "Nutrition",
-            "al": "Ushqim"
-          },
-          "source": "Cell Metabolism",
+          "tag": {"en": "Cardiology", "al": "Kardiologji"},
+          "source": "International study · ScienceDaily",
           "title": {
-            "en": "The protein consensus is finally cracking — in a useful direction",
-            "al": "Konsensusi mbi proteinat më në fund po çahet — në një drejtim të dobishëm"
+            "en": "Beta blockers found useless — and possibly harmful — after most heart attacks",
+            "al": "Beta-bllokuesit rezultojnë të padobishëm — dhe ndoshta të dëmshëm — pas shumicës së sulmeve në zemër"
           },
           "context": {
-            "en": "<strong>The history of this confusion:</strong> The official \"Recommended Daily Allowance\" (RDA) for protein in adults is 0.8 grams per kilogram of body weight. This number was set in the 1940s, based on studies of young men, focused on the bare minimum to prevent deficiency disease. It was never meant to be an optimal recommendation. For decades, sports scientists, gerontologists, and metabolic researchers have privately known the RDA is too low for most adults, especially older ones. Now the public-facing consensus is finally catching up.",
-            "al": "<strong>Historia e këtij konfuzioni:</strong> \"Rekomandimi Ditor i Marrjes\" (RDA) zyrtar për proteinat te të rriturit është 0.8 gram për kilogram peshë trupore. Kjo shifër u vendos në vitet 1940, bazuar në studime me burra të rinj, e fokusuar në minimumin e barabartë për të parandaluar sëmundjen e mungesës. Nuk u mendua kurrë të jetë rekomandim optimal. Për dekada, shkencëtarët e sportit, gerontologët dhe kërkuesit metabolikë kanë ditur privatisht që RDA është shumë i ulët për shumicën e të rriturve, sidomos të moshuarit. Tani konsensusi publik më në fund po e arrin."
+            "en": "<strong>What this is about:</strong> Beta blockers are blood-pressure-lowering drugs prescribed to roughly tens of millions of people worldwide after a heart attack. They've been standard care for ~40 years. A new large international trial just suggested that for uncomplicated heart attacks (the majority), they offer no benefit and may carry small harms.",
+            "al": "<strong>Për çfarë bëhet fjalë:</strong> Beta-bllokuesit janë barna që ulin presionin e gjakut të përshkruara për dhjetëra miliona njerëz në mbarë botën pas një sulmi në zemër. Janë kujdesi standard për ~40 vjet. Një studim i ri i madh ndërkombëtar sapo sugjeroi se për sulmet e pakomplikuara në zemër (shumica), ato nuk ofrojnë përfitim dhe mund të mbartin dëme të vogla."
           },
           "body": {
-            "en": "<p>A landmark meta-analysis across <strong>67 studies</strong> concludes that adults over 40 likely need <strong>1.4-1.8 grams per kg of protein daily</strong> — almost double the long-standing RDA of 0.8 g/kg. For a 75 kg adult, that means roughly 105-135 grams of protein per day, not 60.</p><p>The recommendation predicts better lean-mass retention, reduced fall risk in elderly cohorts, improved metabolic markers (insulin sensitivity, blood sugar control), and better satiety for weight management. It is no longer a fringe view — it is the position of multiple national nutrition societies in 2026.</p>",
-            "al": "<p>Një meta-analizë historike përmes <strong>67 studimesh</strong> konkludon se të rriturit mbi 40 vjeç ka të ngjarë të kenë nevojë për <strong>1.4-1.8 gram për kg proteinë në ditë</strong> — pothuajse dyfishi i RDA-së afatgjatë prej 0.8 g/kg. Për një të rritur 75 kg, kjo do të thotë afërsisht 105-135 gram proteinë në ditë, jo 60.</p><p>Rekomandimi parashikon mbajtje më të mirë të masës së dobët, reduktim të rrezikut të rënies te të moshuarit, shenja metabolike të përmirësuara (ndjeshmëri ndaj insulinës, kontroll i sheqerit në gjak), dhe ngopje më të mirë për menaxhimin e peshës. Nuk është më një këndvështrim margjinal — është pozicioni i shumë shoqërive kombëtare të ushqyerjes në 2026.</p>"
+            "en": "<p>The trial followed thousands of patients with uncomplicated heart attacks — meaning no major heart failure, no major arrhythmia. Beta blockers, routinely prescribed to all of them, produced no measurable benefit in outcomes. In some subgroups, side effects (fatigue, depression, sexual dysfunction) outweighed benefits.</p><p>Important caveats: this only applies to <strong>uncomplicated</strong> heart attacks. Patients with heart failure, arrhythmias, or other complications still likely benefit. If you're on a beta blocker, do not stop without talking to your cardiologist — but it's a reasonable conversation to have at your next visit.</p>",
+            "al": "<p>Studimi ndoqi mijëra pacientë me sulme të pakomplikuara në zemër — që do të thotë pa dështim madhor të zemrës, pa aritmi madhore. Beta-bllokuesit, të përshkruar rutinë për të gjithë ata, nuk prodhuan përfitim të matshëm. Në disa nën-grupe, efektet anësore (lodhje, depresion, mosfunksionim seksual) ishin më të mëdha se përfitimet.</p><p>Vërejtje të rëndësishme: kjo vlen vetëm për sulmet <strong>e pakomplikuara</strong> në zemër. Pacientët me dështim të zemrës, aritmi ose komplikime të tjera ndoshta ende përfitojnë. Nëse jeni në beta-bllokues, mos i ndalni pa folur me kardiologun — por është një bisedë e arsyeshme për ta pasur në vizitën e ardhshme."
           },
           "points": [
             {
-              "en": "<strong>Practical math:</strong> Aim for ~30-40g protein per main meal, spread across the day. The body cannot use much more than that per sitting.",
-              "al": "<strong>Matematika praktike:</strong> Sho për ~30-40g proteinë për vakt kryesor, të shpërndarë gjatë ditës. Trupi nuk mund të përdorë shumë më tepër se kaq në një ulje."
+              "en": "<strong>Practical:</strong> If you or family take beta blockers post-heart-attack, ask the cardiologist if it's still warranted given new evidence.",
+              "al": "<strong>Praktike:</strong> Nëse ti ose familja merrni beta-bllokues pas sulmi në zemër, pyesni kardiologun nëse është ende i nevojshëm me provat e reja."
             },
             {
-              "en": "<strong>Sources matter less than total:</strong> Eggs, meat, fish, dairy, legumes, tofu — all valid. Complete proteins are easier to track but not strictly required.",
-              "al": "<strong>Burimet kanë më pak rëndësi se totali:</strong> Vezët, mishi, peshku, qumështi, bishtajoret, tofu — të gjitha të vlefshme. Proteinat e plota janë më të lehta për t'u ndjekur, por jo strikt të kërkuara."
+              "en": "<strong>Bigger lesson:</strong> 'Standard of care' is not the same as 'proven necessary.' Many long-standing treatments fail when finally tested rigorously.",
+              "al": "<strong>Mësimi më i madh:</strong> 'Standard kujdesi' nuk është e njëjta gjë me 'i provuar i nevojshëm.' Shumë trajtime afatgjata dështojnë kur testohen më në fund rigorozisht."
             },
             {
-              "en": "<strong>Edge case:</strong> People with kidney disease need to discuss this with a nephrologist — high protein can stress damaged kidneys (but does not harm healthy ones).",
-              "al": "<strong>Rast i veçantë:</strong> Personat me sëmundje veshkash duhet ta diskutojnë këtë me një nefrolog — proteina e lartë mund të stresojë veshkat e dëmtuara (por nuk dëmton ato të shëndetshme)."
+              "en": "<strong>Caveat again:</strong> Never adjust prescription medication without your doctor. This is reading material, not medical advice.",
+              "al": "<strong>Vërejtje sërish:</strong> Mos përshtatni kurrë barnat me recetë pa mjekun. Ky është material leximi, jo këshillë mjekësore."
             }
           ],
           "why": {
-            "en": "The most actionable nutrition update in a decade. Probably affects how you should eat starting this week.",
-            "al": "Përditësimi më i veprueshëm i ushqyerjes në një dekadë. Ndoshta ndikon në mënyrën si duhet të ushqehesh duke filluar këtë javë."
-          }
-        },
-        {
-          "tag": {
-            "en": "Movement",
-            "al": "Lëvizje"
-          },
-          "source": "NTNU Trondheim",
-          "title": {
-            "en": "Six minutes of zone-5 cardio matches 45 minutes of zone-2 for VO2 max",
-            "al": "6 minuta kardio zonë-5 baras me 45 min zonë-2 për VO2 max"
-          },
-          "context": {
-            "en": "<strong>Quick decoder:</strong> \"Zones\" refer to heart rate intensity. Zone 2 is conversational pace — you can talk in full sentences while moving. Zone 5 is maximum effort — sprint-style, where you can barely speak. \"VO2 max\" is your body's maximum ability to use oxygen during exercise. It is one of the strongest predictors of longevity — stronger than cholesterol, blood pressure, or smoking status.",
-            "al": "<strong>Dekodues i shpejtë:</strong> \"Zonat\" i referohen intensitetit të rrahjeve të zemrës. Zona 2 është ritmi bisedues — mund të flasësh në fjali të plota ndërsa lëviz. Zona 5 është përpjekje maksimale — stili sprint, ku mezi mund të flasësh. \"VO2 max\" është aftësia maksimale e trupit tënd për të përdorur oksigjenin gjatë ushtrimit. Është një nga parashikuesit më të fortë të jetëgjatësisë — më i fortë se kolesteroli, presioni i gjakut, ose statusi i pirjes së duhanit."
-          },
-          "body": {
-            "en": "<p>A Norwegian study from NTNU Trondheim confirms what training specialists suspected: <strong>maximal-effort intervals totaling just 6 minutes of work (spread across a 30-minute session) produce equivalent VO2 max gains to 45 minutes of steady-state cardio</strong>. The protocol: 4 x 4 minutes, but only the final minute at zone 5 with active recovery between.</p><p>Zone 2 still has unique benefits — particularly for metabolic health, fat oxidation, and recovery. But for time-poor people optimizing cardiovascular fitness, the interval approach is dramatically more efficient.</p>",
-            "al": "<p>Një studim norvegjez nga NTNU Trondheim konfirmon atë që specialistët e stërvitjes dyshonin: <strong>intervalet me përpjekje maksimale që totalisht japin vetëm 6 minuta punë (të shpërndara në një seancë 30-minutëshe) prodhojnë rritje të barabarta të VO2 max sa 45 minuta kardio në gjendje të qëndrueshme</strong>. Protokolli: 4 x 4 minuta, por vetëm minuta e fundit në zonën 5 me rikuperim aktiv midis.</p><p>Zona 2 ende ka përfitime unike — sidomos për shëndetin metabolik, oksidimin e yndyrave dhe rikuperimin. Por për njerëzit me pak kohë që optimizojnë fitnesin kardiovaskular, qasja me intervale është dramatikisht më efikase.</p>"
-          },
-          "why": {
-            "en": "If you have 30 minutes three times a week, you have enough.",
-            "al": "Nëse ke 30 minuta tre herë në javë, ke mjaftueshëm."
-          }
-        },
-        {
-          "tag": {
-            "en": "Sleep",
-            "al": "Gjumë"
-          },
-          "source": "Sleep Journal",
-          "title": {
-            "en": "\"Social jet lag\" is the largest preventable health driver in adults under 40",
-            "al": "\"Jet lag social\" është faktori më i madh i parandalueshëm i shëndetit te të rriturit nën 40"
-          },
-          "context": {
-            "en": "<strong>What \"social jet lag\" means:</strong> The difference between your sleep schedule on workdays and weekends. If you go to bed at midnight and wake at 7am on weekdays, then bed at 3am and up at 11am on weekends, you have ~3 hours of \"social jet lag.\" Your body experiences it as flying to a different time zone every weekend.",
-            "al": "<strong>Çfarë do të thotë \"jet lag social\":</strong> Dallimi midis orarit tënd të gjumit në ditët e punës dhe fundjavë. Nëse shkon në krevat në mesnatë dhe zgjohesh 7 të mëngjesit në ditët e punës, pastaj në krevat në 3 të mëngjesit dhe ngrihesh në 11 në fundjavë, ke ~3 orë \"jet lag social\". Trupi yt e përjeton si fluturim në një zonë tjetër kohore çdo fundjavë."
-          },
-          "body": {
-            "en": "<p>Shifting your sleep window by more than 90 minutes between weekday and weekend is associated with <strong>cardiometabolic markers worse than light smoking</strong> (insulin resistance, inflammation, blood pressure variability). The effect is dose-dependent: bigger shift = bigger damage. People who keep consistent sleep timing across all seven days, even with shorter total sleep, fare better than people who sleep longer on weekends to \"catch up.\"</p><p>Consistency matters more than duration. This is the simplest, most controllable health intervention — and almost nobody does it.</p>",
-            "al": "<p>Zhvendosja e dritares së gjumit me më shumë se 90 minuta midis ditëve të javës dhe fundjavës lidhet me <strong>shenja kardiometabolike më të këqija se pirja e lehtë e duhanit</strong> (rezistenca ndaj insulinës, inflamacion, ndryshueshmëri presioni gjaku). Efekti është i varur nga doza: zhvendosje më e madhe = dëm më i madh. Personat që mbajnë kohëzgjatje të qëndrueshme gjumi përgjatë të gjitha shtatë ditëve, edhe me gjumë më të shkurtër total, ia dalin më mirë se ata që flenë më shumë në fundjavë për t'u \"kapur\".</p><p>Konsistenca ka më shumë rëndësi se kohëzgjatja. Kjo është ndërhyrja shëndetësore më e thjeshtë dhe më e kontrollueshme — dhe pothuajse askush nuk e bën.</p>"
-          },
-          "why": {
-            "en": "Same bedtime every day, including weekends. That's the entire prescription.",
-            "al": "I njëjti orar gjumi çdo ditë, përfshirë fundjavat. Kaq është gjithë receta."
+            "en": "A pillar of cardiac care has just been seriously questioned. Tens of millions of prescriptions may shift.",
+            "al": "Një shtyllë e kujdesit kardiak sapo u vu seriozisht në pikëpyetje. Dhjetëra miliona receta mund të zhvendosen."
           }
         }
       ]
     },
     {
       "id": "markets",
-      "name": {
-        "en": "Markets",
-        "al": "Tregje"
-      },
+      "name": {"en": "Markets", "al": "Tregje"},
       "icon": "↗",
       "color": "sky",
       "intro": {
@@ -852,96 +497,30 @@
       "items": [
         {
           "featured": true,
-          "tag": {
-            "en": "Cross-asset",
-            "al": "Ndër-asete"
-          },
-          "source": "CME · WGC",
+          "tag": {"en": "Asia", "al": "Azi"},
+          "source": "Bloomberg · Nikkei",
           "title": {
-            "en": "A quiet regime change: dollar weakens, gold strong, oil bounded",
-            "al": "Një ndryshim i qetë regjimi: dollari dobësohet, ari i fortë, nafta e kufizuar"
+            "en": "Nikkei 225 breaks 65,000 for the first time ever",
+            "al": "Nikkei 225 thyen 65,000 për herë të parë ndonjëherë"
           },
           "context": {
-            "en": "<strong>Vocabulary you need:</strong> \"DXY\" is the US Dollar Index — measures the dollar against a basket of major currencies (euro, yen, pound, etc.). When DXY rises, the dollar is \"strong\"; when it falls, \"weak.\" A weaker dollar typically helps gold (priced in dollars), emerging markets, and commodity exporters. The relationship between these three assets (dollar, gold, oil) is one of the most-watched signals in global macro because it reveals what the market expects about inflation, growth, and central bank policy.",
-            "al": "<strong>Fjalori që të duhet:</strong> \"DXY\" është Indeksi i Dollarit Amerikan — mat dollarin kundër një shporte valutash kryesore (euro, jen, pound, etj.). Kur DXY rritet, dollari është \"i fortë\"; kur bie, \"i dobët\". Një dollar më i dobët zakonisht ndihmon arin (i çmuar në dollarë), tregjet në zhvillim, dhe eksportuesit e mallrave. Marrëdhënia midis këtyre tre aseteve (dollar, ar, naftë) është një nga sinjalet më të vëzhguara në makrot global sepse zbulon atë çka tregu pret për inflacionin, rritjen dhe politikën e bankave qendrore."
+            "en": "<strong>Why this matters:</strong> The Nikkei 225 is Japan's main stock index, the equivalent of the S&P 500 for the US. Japan's stock market spent 30 years recovering from its 1989 bubble — only crossing its old peak in 2024. Now it's at 65,000 and still climbing. Japan's market is up 29.1% year-to-date, the best major market in the world in 2026.",
+            "al": "<strong>Pse ka rëndësi:</strong> Nikkei 225 është indeksi kryesor i aksioneve të Japonisë, ekuivalenti i S&P 500 për SHBA-në. Tregu i aksioneve të Japonisë kaloi 30 vjet duke u rikuperuar nga bula e tij e 1989-ës — vetëm duke kaluar majën e vjetër në 2024. Tani është në 65,000 dhe ende po rritet. Tregu i Japonisë është +29.1% vit-deri-më-sot, tregu më i mirë i madh në botë në 2026."
           },
           "body": {
-            "en": "<p>The dollar index <strong>broke below 100 this week</strong> — a level held for most of 2025. Gold sits near record highs at $3,180/oz. Oil is range-bound at $74-82 despite ongoing Middle East tensions. The combination is telling: markets are pricing a <strong>slow Fed pivot</strong> (rate cuts ahead but not panic-driven) and <strong>stable supply</strong> (no crisis premium in oil), not catastrophe.</p><p>Watch the DXY 97 level as the next signal. A break below there would confirm a new regime: weaker dollar, stronger commodities, easier financial conditions globally. Above 100 again would mean the move was a false start.</p>",
-            "al": "<p>Indeksi i dollarit <strong>theu nën 100 këtë javë</strong> — një nivel i mbajtur pjesën më të madhe të 2025. Ari qëndron pranë rekordeve historike në 3,180 dollarë/onsë. Nafta është në brez 74-82 dollarë pavarësisht tensioneve të vazhdueshme në Lindjen e Mesme. Kombinimi është treguese: tregjet po vlerësojnë një <strong>kthesë të ngadaltë të Fed-it</strong> (ulje normash përpara por jo të drejtuar nga paniku) dhe <strong>furnizim të qëndrueshëm</strong> (pa primë krize në naftë), jo katastrofë.</p><p>Vëzhgo nivelin 97 të DXY si sinjalin tjetër. Një thyerje nën të do të konfirmonte një regjim të ri: dollar më i dobët, mallra më të forta, kushte financiare më të lehta globalisht. Mbi 100 sërish do të nënkuptonte se lëvizja ishte një nisje e gabuar.</p>"
-          },
-          "points": [
-            {
-              "en": "<strong>Trade implication:</strong> Emerging-market equities and commodity-linked currencies (BRL, AUD, ZAR) tend to outperform in weak-dollar regimes.",
-              "al": "<strong>Implikim tregtar:</strong> Aksionet e tregjeve në zhvillim dhe valutat e lidhura me mallra (BRL, AUD, ZAR) priren të kenë performancë më të mirë në regjimet e dollarit të dobët."
-            },
-            {
-              "en": "<strong>For Albania specifically:</strong> A weaker dollar makes ALL-denominated debt cheaper to service and tourism inflows (often in EUR/USD) more valuable.",
-              "al": "<strong>Për Shqipërinë konkretisht:</strong> Një dollar më i dobët e bën borxhin në ALL më të lirë për shërbim dhe inflows-et e turizmit (shpesh në EUR/USD) më të vlefshme."
-            },
-            {
-              "en": "<strong>Risk:</strong> If the dollar weakens too fast, capital flight from US Treasuries forces yields up — the regime change becomes disorderly.",
-              "al": "<strong>Rreziku:</strong> Nëse dollari dobësohet shumë shpejt, fluturimi i kapitalit nga obligacionet amerikane i detyron yield-et lart — ndryshimi i regjimit bëhet i çrregullt."
-            }
-          ],
-          "why": {
-            "en": "Positioning for the next six months gets framed here.",
-            "al": "Pozicionimi për gjashtë muajt e ardhshëm kuadrohet këtu."
-          }
-        },
-        {
-          "tag": {
-            "en": "Equities",
-            "al": "Aksione"
-          },
-          "source": "S&P Dow Jones",
-          "title": {
-            "en": "S&P 500 equal-weight outperforms cap-weight for second quarter running",
-            "al": "S&P 500 me peshë të barabartë mbi peshat e kapitalizimit, tremujori i dytë radhazi"
-          },
-          "context": {
-            "en": "<strong>The distinction:</strong> The standard S&P 500 weights companies by market capitalization — meaning Apple, Microsoft, and Nvidia count for much more than smaller companies. The \"equal-weight\" version treats every company the same. When equal-weight outperforms, it means the rally is \"broadening\" beyond a few giants — a healthier sign for a sustained bull market.",
-            "al": "<strong>Dallimi:</strong> S&P 500 standard i peshon kompanitë sipas kapitalizimit të tregut — që do të thotë Apple, Microsoft dhe Nvidia kanë më shumë rëndësi se kompanitë më të vogla. Versioni \"peshë e barabartë\" i trajton të gjitha kompanitë njësoj. Kur pesha e barabartë performon më mirë, do të thotë se rritja po \"zgjerohet\" përtej disa gjigantëve — një shenjë më e shëndetshme për një treg buli të qëndrueshëm."
-          },
-          "body": {
-            "en": "<p>For the second straight quarter, the equal-weight S&P 500 is outperforming the cap-weighted version — currently <strong>+4.2% QTD vs +2.1%</strong>. This is the first sign in over two years that market gains are being shared more broadly across sectors and company sizes.</p><p>The \"Magnificent Seven\" mega-caps drove the 2023-2024 rally almost single-handedly. A broader market typically signals more durable expansion — though it can also signal late-cycle behavior.</p>",
-            "al": "<p>Për tremujorin e dytë radhazi, S&P 500 me peshë të barabartë po performon më mirë se versioni me peshë kapitalizimi — aktualisht <strong>+4.2% QTD kundrejt +2.1%</strong>. Kjo është shenja e parë në mbi dy vjet që fitimet e tregut po ndahen më gjerësisht përgjatë sektorëve dhe madhësive të kompanive.</p><p>\"Shtatë të Madhërishmit\" mega-kapitale drejtuan rritjen 2023-2024 pothuajse vetëm. Një treg më i gjerë zakonisht sinjalizon zgjerim më të qëndrueshëm — edhe pse mund të sinjalizojë gjithashtu sjellje të vonë në cikël.</p>"
+            "en": "<p>The Nikkei closed +3.04% on Monday, breaking through 65,000 for the first time. Taiwan's Taiex topped 43,000 and European markets hit their highest level since March 2. The rally is being driven by three forces: structural reform in Japanese corporate governance, weaker yen helping exporters, and global capital looking for alternatives to expensive US equities.</p><p>For perspective on the 30-year recovery: in 1989, the Nikkei peaked at 38,957. By 2009, it sat at 7,054. It took until 2024 to retake the old high. Crossing 65,000 means Japanese stocks are finally and decisively past the lost decades.</p>",
+            "al": "<p>Nikkei mbylli +3.04% të hënën, duke depërtuar nëpër 65,000 për herë të parë. Taiex i Tajvanit kaloi 43,000 dhe tregjet evropiane arritën nivelin e tyre më të lartë që nga 2 marsi. Rritja po drejtohet nga tre forca: reforma strukturore në qeverisjen korporative japoneze, jeni më i dobët që ndihmon eksportuesit, dhe kapitali global që kërkon alternativa ndaj aksioneve të shtrenjta amerikane.</p><p>Për perspektivën e rikuperimit 30-vjeçar: në 1989, Nikkei arriti kulmin në 38,957. Deri në 2009, ishte në 7,054. Iu desh deri në 2024 për të rimarrë majën e vjetër. Kalimi i 65,000 do të thotë se aksionet japoneze janë më në fund dhe vendosmërisht përtej dekadave të humbura.</p>"
           },
           "why": {
-            "en": "Broader rallies last longer than narrow ones — usually.",
-            "al": "Rritjet e gjera zgjasin më shumë se ato të ngushta — zakonisht."
-          }
-        },
-        {
-          "tag": {
-            "en": "Crypto",
-            "al": "Kripto"
-          },
-          "source": "Farside Investors",
-          "title": {
-            "en": "Bitcoin ETF inflows quietly hit $80B cumulative",
-            "al": "Inflows në ETF-të e Bitcoin-it arrijnë në heshtje 80 miliardë dollarë kumulativë"
-          },
-          "context": {
-            "en": "<strong>What changed:</strong> In January 2024, US regulators approved the first \"spot Bitcoin ETFs\" — funds that allow ordinary investors to buy Bitcoin through their regular brokerage accounts, without dealing with crypto exchanges or wallets. This made Bitcoin accessible to pension funds, family offices, and traditional asset managers who could not previously hold it for regulatory reasons. The flows since then are a real-time measurement of institutional adoption.",
-            "al": "<strong>Çfarë ndryshoi:</strong> Në janar 2024, rregullatorët amerikanë miratuan \"ETF-të e para Spot të Bitcoin-it\" — fonde që lejojnë investitorët e zakonshëm të blejnë Bitcoin përmes llogarive të rregullta të brokerimit, pa pasur nevojë të merren me bursa kripto apo kuleta. Kjo e bëri Bitcoin-in të aksesueshëm për fondet pensionale, zyrat familjare dhe menaxherët tradicionalë të aseteve që më parë nuk mund ta mbanin për arsye rregullatore. Rrjedhat që atëherë janë një matje në kohë reale e adoptimit institucional."
-          },
-          "body": {
-            "en": "<p>Spot Bitcoin ETFs have absorbed <strong>$80 billion cumulatively</strong> since launch — making them one of the most successful ETF launches in history by speed of asset gathering. By comparison, gold ETFs took nearly five years to reach the same level. BlackRock's IBIT alone holds over $50B.</p><p>The narrative has shifted: less retail speculation, more institutional accumulation. Bitcoin is being treated by some allocators as a small but permanent portfolio slice — like gold or commodities, not like a tech stock.</p>",
-            "al": "<p>ETF-të Spot të Bitcoin-it kanë thithur <strong>80 miliardë dollarë kumulativë</strong> që nga nisja — duke i bërë një nga nisjet më të suksesshme të ETF-ve në histori sipas shpejtësisë së mbledhjes së aseteve. Për krahasim, ETF-ve të arit u deshën pothuajse pesë vjet të arrijnë të njëjtin nivel. IBIT i BlackRock-ut vetëm mban mbi 50 miliardë dollarë.</p><p>Narrativi është ndryshuar: më pak spekulim individual, më shumë akumulim institucional. Bitcoin po trajtohet nga disa alokues si një copë e vogël por e përhershme portofoli — si ari ose mallrat, jo si një aksion teknologjie.</p>"
-          },
-          "why": {
-            "en": "The \"is Bitcoin a real asset class\" debate is officially over. The new question is allocation size.",
-            "al": "Debati \"a është Bitcoin një klasë aseti reale\" zyrtarisht ka mbaruar. Pyetja e re është madhësia e alokimit."
+            "en": "A 30-year economic stagnation has officially ended — Japan is back as a major investment thesis.",
+            "al": "Një stagnim ekonomik 30-vjeçar ka përfunduar zyrtarisht — Japonia është kthyer si një tezë madhore investimi."
           }
         }
       ]
     },
     {
       "id": "sport",
-      "name": {
-        "en": "Sport (light)",
-        "al": "Sport (i lehtë)"
-      },
+      "name": {"en": "Sport (light)", "al": "Sport (i lehtë)"},
       "icon": "◯",
       "color": "plum",
       "intro": {
@@ -951,49 +530,23 @@
       "items": [
         {
           "featured": true,
-          "tag": {
-            "en": "Athletics",
-            "al": "Atletikë"
-          },
-          "source": "World Athletics",
-          "title": {
-            "en": "The 4-minute mile fell — by a teenager — at altitude",
-            "al": "Maili 4-minutësh ra — nga një adoleshent — në lartësi"
-          },
-          "context": {
-            "en": "<strong>Why this is significant:</strong> The 4-minute mile barrier was broken by Roger Bannister in 1954. For most of the 20th century, it was considered the edge of human possibility. Today, world-class male milers run under 3:50. But the symbolic threshold remains — it is the benchmark by which the trajectory of human performance is measured. Each time the standard moves (high schoolers, women, altitude athletes) it tells us something about training science, talent identification, and what we previously assumed was impossible.",
-            "al": "<strong>Pse është e rëndësishme kjo:</strong> Barriera e mailit 4-minutësh u thye nga Roger Bannister në 1954. Për pjesën më të madhe të shekullit 20, u konsiderua skaji i mundësisë njerëzore. Sot, vrapuesit e nivelit botëror të mailit vrapojnë nën 3:50. Por pragu simbolik mbetet — është standardi me të cilin matet trajektorja e performancës njerëzore. Çdo herë që standardi lëviz (gjimnazistë, gra, atletë në lartësi) na tregon diçka për shkencën e stërvitjes, identifikimin e talentit dhe atë që më parë supozonim si të pamundur."
-          },
-          "body": {
-            "en": "<p>A <strong>17-year-old Kenyan runner</strong> went sub-4 minutes for the mile at a meet in Eldoret — Kenya's high-altitude running heartland. Sixty-nine years after Bannister broke the barrier as a fully developed adult under specialized conditions, it is now within reach of high schoolers training in altitude.</p><p>The deeper story is talent density. Kenya's Rift Valley produces an outsized share of world-class distance runners because of a combination of altitude, running culture (kids run miles to school), and economic incentives. Track's talent depth keeps expanding because of where it now looks.</p>",
-            "al": "<p>Një <strong>vrapues 17-vjeçar nga Kenia</strong> kaloi nën 4 minuta për mailin në një takim në Eldoret — zemra e vrapimit në lartësi e Kenisë. Gjashtëdhjetë e nëntë vjet pasi Bannister theu barrierën si i rritur plotësisht i zhvilluar nën kushte të specializuara, tani është brenda mundësisë së gjimnazistëve që stërviten në lartësi.</p><p>Historia më e thellë është dendësia e talentit. Lugina e Riftit në Keni prodhon një pjesë të madhe të vrapuesve të nivelit botëror për distanca të gjata për shkak të kombinimit të lartësisë, kulturës së vrapimit (fëmijët vrapojnë milje për në shkollë) dhe nxitjeve ekonomike. Thellësia e talentit në atletikë vazhdon të zgjerohet për shkak të vendit ku tani shikon.</p>"
-          },
-          "why": {
-            "en": "Human-performance curves haven't flattened. Most \"impossible\" things just haven't been done yet.",
-            "al": "Kurbat e performancës njerëzore nuk janë sheshuar. Shumica e gjërave \"të pamundura\" thjesht nuk janë bërë ende."
-          }
-        },
-        {
-          "tag": {
-            "en": "Football",
-            "al": "Futboll"
-          },
+          "tag": {"en": "Football", "al": "Futboll"},
           "source": "UEFA",
           "title": {
-            "en": "A small-market club wins the Champions League — first time since 2004",
-            "al": "Një klub i tregut të vogël fiton Champions League — e para që nga 2004"
+            "en": "Champions League final brings a quiet tactical revolution into mainstream view",
+            "al": "Finalja e Champions League sjell një revolucion taktik të heshtur në sytë e të gjithëve"
           },
           "context": {
-            "en": "<strong>Why this matters beyond sport:</strong> European football has been dominated for two decades by clubs with the largest revenues — Real Madrid, Manchester City, Bayern Munich, PSG. Money buys players, and players buy trophies. When a small-market club breaks through, it suggests that systems, coaching, and recruitment intelligence can still beat raw spending power. This is a question that extends beyond football — into companies, militaries, and economies.",
-            "al": "<strong>Pse ka rëndësi përtej sportit:</strong> Futbolli evropian është dominuar për dy dekada nga klubet me të ardhurat më të mëdha — Real Madrid, Manchester City, Bayern Munich, PSG. Paratë blejnë lojtarë, dhe lojtarët blejnë trofe. Kur një klub i tregut të vogël depërton, sugjeron që sistemet, trajnimi dhe inteligjenca e rekrutimit ende mund t'i mundin pushtetit të shpenzimit të papërpunuar. Kjo është një pyetje që shtrihet përtej futbollit — në kompani, ushtri dhe ekonomi."
+            "en": "<strong>Why this matters beyond sport:</strong> Football tactics evolve slowly, then suddenly. Pep Guardiola's possession-game took 15 years to spread. The current shift — toward high-pressing, rapid vertical play with no fixed positions — has been bubbling in smaller leagues for years. The Champions League final brought it onto the biggest stage and won.",
+            "al": "<strong>Pse ka rëndësi përtej sportit:</strong> Taktikat e futbollit evoluojnë ngadalë, pastaj papritur. Loja me posedim e Pep Guardiolës iu desh 15 vjet të përhapej. Zhvendosja aktuale — drejt pressing-ut të lartë, lojës vertikale të shpejtë pa pozicione fikse — ka qenë duke gjyfryer në ligat më të vogla prej vitesh. Finalja e Champions League e solli në skenën më të madhe dhe fitoi."
           },
           "body": {
-            "en": "<p>The structural advantages of the wealthiest clubs are not absolute. Smart recruitment (identifying undervalued players before others), a coherent tactical system, and patient coaching beat a roster of stars on paper.</p><p>Tactical analysts will study this run for years. The key lessons appear to be: a clear style of play that every signing fits into; data-driven scouting in underexplored leagues; and refusing to sell core players for short-term cash. Systems beat budgets — sometimes.</p>",
-            "al": "<p>Avantazhet strukturore të klubeve më të pasura nuk janë absolute. Rekrutimi inteligjent (identifikimi i lojtarëve të nënvlerësuar para të tjerëve), një sistem taktik koherent dhe trajnimi i durueshëm i mundin një listë me yje në letër.</p><p>Analistët taktikë do ta studiojnë këtë sezon për vite. Mësimet kryesore duket se janë: një stil i qartë loje në të cilin përshtatet çdo nënshkrim; vëzhgim i drejtuar nga të dhënat në ligat e pa eksploruara mjaftueshëm; dhe refuzimi për të shitur lojtarët bazë për para afatshkurtra. Sistemet i mundin buxhetet — ndonjëherë.</p>"
+            "en": "<p>The deeper lesson isn't about which club won. It's that smart organizational design (clear principles, fitting recruitment, patient coaching) again beat raw spending — a recurring theme of 2026.</p><p>Tactical analysts will study this final for years. The key elements: positional fluidity, immediate counter-press after losing the ball, and a refusal to slow down even when leading. It is football for a world with shorter attention spans — but it also requires extraordinary fitness, which is its own statement.</p>",
+            "al": "<p>Mësimi më i thellë nuk është për cilin klub fitoi. Është se dizajni inteligjent organizativ (parimet e qarta, rekrutimi i përshtatshëm, trajnimi i durueshëm) sërish mundi shpenzimet e papërpunuara — një temë e përsëritur e 2026-ës.</p><p>Analistët taktikë do ta studiojnë këtë finale për vite. Elementet kyçe: rrjedhshmëria pozicionale, kundër-pressing-u i menjëhershëm pas humbjes së topit, dhe refuzimi për të ngadalësuar edhe kur është në krye. Është futboll për një botë me hapësira më të shkurtra vëmendjeje — por kërkon gjithashtu kondicion të jashtëzakonshëm, që është një deklaratë në vetvete.</p>"
           },
           "why": {
-            "en": "A reminder that organizational design still beats financial firepower.",
-            "al": "Një kujtesë që dizajni organizativ ende i mund fuqinë financiare."
+            "en": "Systems beat budgets. Again.",
+            "al": "Sistemet i mundin buxhetet. Sërish."
           }
         }
       ]
